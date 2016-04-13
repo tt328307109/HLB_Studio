@@ -67,7 +67,7 @@ OnClickListener {
 	private String data8 = "FFFFFFFF";// 10
 	private String data9 = "FFFFFFFFF";// 9
 	private String data10 = "FFFFFFFFFF";// 8
-	int  yy = 19920428;
+	int  yy = 1992;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
