@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BasicLibary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HLBPay/libs/BasicLibary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

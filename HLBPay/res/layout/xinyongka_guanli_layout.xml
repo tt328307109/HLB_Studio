@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_xinyongkaguanjia"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <LinearLayout
+        android:id="@+id/ll_xyk_load"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/xinyongka_bg_1"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp" >
+
+                <ImageView
+                    android:id="@+id/img_xyk_userIcon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/icon_userhoto" />
+
+                <TextView
+                    android:id="@+id/tv_xyk_userName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/img_xyk_userIcon"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@id/img_xyk_userIcon"
+                    android:text=""
+                    android:textColor="@color/zicolor"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/tv_xyk_userPhoneNum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_xyk_userName"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toRightOf="@id/img_xyk_userIcon"
+                    android:text=""
+                    android:textColor="@color/zicolor"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+
+            <View
+                style="@style/common_line_horizontal_style"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/tv_xyk_huizong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="20dp"
+                    android:text="汇总"
+                    android:textSize="20sp" />
+
+                <LinearLayout
+                    android:id="@+id/rl_xykgl_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/tv_xyk_huizong"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/tv_xyk_zhangdan"
+                        style="@style/text_xyk_gl_zd_orange"
+                        android:text="账单" />
+
+                    <TextView
+                        android:id="@+id/tv_xyk_all_edu"
+                        style="@style/text_xyk_gl_orange"
+                        android:text="额度" />
+
+                    <TextView
+                        android:id="@+id/tv_xyk_yihuan"
+                        style="@style/text_xyk_gl_orange"
+                        android:text="已还" />
+
+                    <TextView
+                        android:id="@+id/tv_xyk_weihuan"
+                        style="@style/text_xyk_gl_orange"
+                        android:text="未还" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@id/rl_xykgl_1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/tv_xyk_zhangdan_account"
+                        style="@style/text_xyk_gl1"
+                        android:text="--" />
+
+                    <TextView
+                        android:id="@+id/tv_xyk_all_edu_account"
+                        style="@style/text_xyk_gl"
+                        android:text="--" />
+
+                    <TextView
+                        android:id="@+id/tv_xyk_yihuan_account"
+                        style="@style/text_xyk_gl"
+                        android:text="--" />
+
+                    <TextView
+                        android:id="@+id/tv_xyk_weihuan_account"
+                        style="@style/text_xyk_gl"
+                        android:textColor="@color/red"
+                        android:text="--" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rl_xyk_add"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp" >
+
+                    <ImageView
+                        android:id="@+id/img_xyk_xinyongka_add"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/xinyongka" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/img_xyk_xinyongka_add"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="10dp"
+                        android:text="添加信用卡"
+                        android:textColor="@color/zicolor"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:id="@+id/img_xyk_zxian"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp"
+                    android:layout_toLeftOf="@id/rl_xyk_add"
+                    android:background="@drawable/xiantiao_1" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/myPull_refresh_list_xyk"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="false"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:smoothScrollbar="true" />
+    </LinearLayout>
+    <com.lk.qf.pay.wedget.webview.CommonLoadingComponent
+        android:id="@+id/loading_xinyongka_manager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

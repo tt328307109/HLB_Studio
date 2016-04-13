@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_installen_title1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="10dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="数量"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="20dp"
+            android:text="新增"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="20dp"
+            android:text="奖金"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/biankuang_5" >
+
+        <TextView
+            android:id="@+id/tv_installen_zj1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="一级"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_installen_zj_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@id/tv_installen_zj1"
+            android:text=""
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_installen_zj_new_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:text=""
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_installen_zj1_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text=""
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/biankuang_5" >
+
+        <TextView
+            android:id="@+id/tv_installen_zj2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="二级"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_installen_zj2_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@id/tv_installen_zj2"
+            android:text=""
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_installen_zj2_new_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:text=""
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_installen_zj2_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text=""
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/biankuang_5" >
+
+        <TextView
+            android:id="@+id/tv_installen_zj3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="三级"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_installen_zj3_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@id/tv_installen_zj3"
+            android:text="一 一"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_installen_zj3_new_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:text="一 一"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_installen_zj3_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="一 一"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_zj_list_query"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/selector_next_normal"
+        android:text="收益明细"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+
+        <EditText
+            android:id="@+id/ed_zj_tixian"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/biankuang_5"
+            android:hint="累计总金额  一 一"
+            android:maxLength="8"
+            android:textSize="16sp"
+            android:textColorHint="@color/lightgray"
+            android:numeric="decimal"
+            android:gravity="center" />
+
+        <Button
+            android:id="@+id/btn_zj_tixian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_toRightOf="@id/ed_zj_tixian"
+            android:background="@drawable/selector_next_normal"
+            android:text="提现"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_zj_list_query_tixian"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/selector_next_normal"
+        android:text="提现明细"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:text="商户一级,二级装机数量达到1000台,开通三级收益"
+        android:textColor="@color/gray"
+        android:textSize="15sp" />
+
+</LinearLayout>

@@ -1,0 +1,1250 @@
+[
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_border.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\textview_border.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_app_press.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_app_press.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_mpos_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\jiaoyi_mpos_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_account_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\tab_account_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_toast.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\drawable_toast.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\tab_home_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_polyloan_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_polyloan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_nextstep.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_nextstep.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jujue_posloan_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\jujue_posloan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pop_click.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_pop_click.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_next_normal.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_next_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect_corner_orange.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\bg_rect_corner_orange.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_weixin_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\jiaoyi_weixin_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\kuaiduobao_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\kuaiduobao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_safe_quit.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_safe_quit.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_normal_click_bg.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_normal_click_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tijiao_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\tijiao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_reg_back.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_reg_back.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_polyloan_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_polyloan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhenhao_loan_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_zhenhao_loan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\t0_tixian_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\t0_tixian_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_shanchu.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\bt_shanchu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\chongzhi_account_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\chongzhi_account_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle_graybg_normal.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\shape_rectangle_graybg_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect_corner_orange.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\bg_rect_corner_orange.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\anshijianjiesuan_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\anshijianjiesuan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shuzi_long_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\shuzi_long_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_view_click_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\tab_view_click_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\queren_yellow_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\queren_yellow_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\pay_button_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\pay_button_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_queding.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\bt_queding.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\huankuan_zhifubao_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\huankuan_zhifubao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_quxiao.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\bt_quxiao.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\queren_xyk_info_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\queren_xyk_info_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect_corner_gray.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\bg_rect_corner_gray.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_queding.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\bt_queding.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_notice_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\tab_notice_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_5.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\shape_5.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_more_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\tab_more_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\next_tep.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\next_tep.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\bg_rect.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\bg_rect.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_5.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\shape_5.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_one_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\keyboard_one_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_shanchu.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\bt_shanchu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shuaxin_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\shuaxin_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add_id_card.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_add_id_card.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_quxiao.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\bt_quxiao.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\xyk_btn_huankuan_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\xyk_btn_huankuan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\t0_zhuanzhang_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\t0_zhuanzhang_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_select.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\tb_select.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_zuixinjiexiao_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\indiana_zuixinjiexiao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_show_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\indiana_show_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\click_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\click_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\huankuan_zhifubao_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\huankuan_zhifubao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toview_info_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_toview_info_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\qianbao_goumai_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\qianbao_goumai_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_kaka_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_kaka_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_pos_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\jiaoyi_pos_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shimingchaxun_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\shimingchaxun_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_get_verfiycode.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_get_verfiycode.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_shouye_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\indiana_shouye_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\tab_home_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\richpush_btn_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next1.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_next1.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_kaka_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_kaka_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_activitygroup.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_tab_activitygroup.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\licai_new_buy_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\licai_new_buy_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_line_vertical.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\common_line_vertical.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\goodsinfo_buycar_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\goodsinfo_buycar_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\richpush_btn_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_border1.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\textview_border1.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_buy_car_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\indiana_buy_car_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\saidanbutton.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\saidanbutton.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\dot.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\goodsinfo_buycar_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\goodsinfo_buycar_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_login.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bar_edit_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\search_bar_edit_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_input_amount.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_input_amount.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\licai_mairu_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\licai_mairu_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_key.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_keyboard_key.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bianji_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_bianji_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_yuanjiao.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\shape_yuanjiao.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bgd_relatly_line.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\bgd_relatly_line.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_border1.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\textview_border1.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\lijicanyu_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\lijicanyu_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_view_click_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\tab_view_click_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox2_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\checkbox2_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\queren_yellow_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\queren_yellow_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_vertical.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\shadow_vertical.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_left_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_weixin_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\jiaoyi_weixin_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\wancheng_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\wancheng_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rectangle_blue_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\rounded_rectangle_blue_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_buy_car_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\indiana_buy_car_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_normal_click_bg.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_normal_click_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\loan_huankuan_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\loan_huankuan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\licai_new_buy_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\licai_new_buy_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_input_amount.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_input_amount.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_show_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\indiana_show_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shuaxin_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\shuaxin_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_left_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_wo_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\indiana_wo_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\t1_zhuanzhang_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\t1_zhuanzhang_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_input_reg.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_input_reg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jujue_posloan_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\jujue_posloan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\queren_xyk_info_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\queren_xyk_info_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_line_horizontal_back.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\common_line_horizontal_back.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\details_posloan_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\details_posloan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\v50_yjboder.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\v50_yjboder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bgd_relatly_line.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\bgd_relatly_line.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo_animation.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\app_logo_animation.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_animation.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\loading_animation.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\zhuangji_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\zhuangji_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\sk_code_bg_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\sk_code_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shuzi_short_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\shuzi_short_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\my_coustom_progressbar.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\my_coustom_progressbar.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_item_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\login_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\login_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_yifubao_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\jiaoyi_yifubao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\click_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\click_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\loan_yihuan_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\loan_yihuan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\details_posloan_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\details_posloan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_line_horizontal_back.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\common_line_horizontal_back.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\licai_shuhui_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\licai_shuhui_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox3_card_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\checkbox3_card_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tijiao_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\tijiao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_wancheng_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_wancheng_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_single_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pop_click.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_pop_click.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bianji_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_bianji_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\image_holder.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\image_holder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\login_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\login_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\sk_code_bg_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\sk_code_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_right_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhenhao_loan_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_zhenhao_loan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_app_press.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_app_press.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\licai_record_info_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\licai_record_info_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\zhuanzhang_dianhua_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\zhuanzhang_dianhua_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\t1_zhuanzhang_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\t1_zhuanzhang_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\huankuan_queren_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\huankuan_queren_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_wancheng_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_wancheng_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_kuaiyidai_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_kuaiyidai_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_shouye_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\indiana_shouye_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\anshijianjiesuan_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\anshijianjiesuan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_line_horizontal.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\common_line_horizontal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\dadaoedu_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\dadaoedu_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_right_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_rect_corner_gray.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\bg_rect_corner_gray.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\wancheng_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\wancheng_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\chongzhi_account_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\chongzhi_account_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_tixian_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\qb_tixian_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\licai_record_info_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\licai_record_info_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_shouye_xiahuaxian_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\indiana_shouye_xiahuaxian_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\apply_posloan_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\apply_posloan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_toast.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\drawable_toast.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_btn_buy_car_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\indiana_btn_buy_car_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_border_6corners.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\shape_border_6corners.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_login.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_mpos_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\jiaoyi_mpos_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_account_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\tab_account_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_select.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\tb_select.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_border_6corners.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\shape_border_6corners.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_item_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\image_holder.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\image_holder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_safe_quit.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_safe_quit.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toview_info_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_toview_info_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox2_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\checkbox2_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\dot.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_yuanjiao.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\shape_yuanjiao.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bar_edit_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\search_bar_edit_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bule_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_bule_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\licai_shuhui_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\licai_shuhui_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_vertical.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\shadow_vertical.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\t0_tixian_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\t0_tixian_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_more_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\tab_more_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_baidu_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\jiaoyi_baidu_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_yifubao_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\jiaoyi_yifubao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\saidanbutton.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\saidanbutton.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\pay_button_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\pay_button_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_key.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_keyboard_key.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_single_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_border.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\textview_border.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox3_card_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\checkbox3_card_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\t1_tixian_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\t1_tixian_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_title_right_background.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_title_right_background.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\posdai_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\posdai_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_fenrun_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\jiaoyi_fenrun_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bule_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_bule_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\posdai_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\posdai_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_wo_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\indiana_wo_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add_id_card.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_add_id_card.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\licai_chongzhi_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\licai_chongzhi_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_title_right_background.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_title_right_background.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\kuaiduobao_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\kuaiduobao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_commondialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\bg_commondialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\huankuan_weixin_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\huankuan_weixin_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle_graybg_normal.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\shape_rectangle_graybg_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\loan_huankuan_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\loan_huankuan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\my_coustom_progressbar.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\my_coustom_progressbar.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_pos_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\jiaoyi_pos_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\confirm_posloan_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\confirm_posloan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_shouye_xiahuaxian_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\indiana_shouye_xiahuaxian_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_zuixinjiexiao_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\indiana_zuixinjiexiao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_reg_back.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_reg_back.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_activitygroup.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_tab_activitygroup.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\lijicanyu_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\lijicanyu_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_zhifubao_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\jiaoyi_zhifubao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\next_tep.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\next_tep.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bj.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\corners_bj.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\huoquyanzhengma_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\huoquyanzhengma_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indiana_btn_buy_car_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\indiana_btn_buy_car_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\huoquyanzhengma_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\huoquyanzhengma_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_nextstep.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\selector_nextstep.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangular_bg.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\rectangular_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_notice_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\tab_notice_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\v50_yjboder.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\v50_yjboder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_line_horizontal.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\common_line_horizontal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_commondialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\bg_commondialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bj.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\corners_bj.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\huankuan_weixin_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\huankuan_weixin_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_icon.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\tb_munion_icon.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\licai_mairu_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\licai_mairu_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_zhifubao_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\jiaoyi_zhifubao_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_next_normal.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_next_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_baidu_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\jiaoyi_baidu_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_kuaiyidai_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_kuaiyidai_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangular_bg.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\rectangular_bg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_input_reg.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_input_reg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_one_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\keyboard_one_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo_animation.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\app_logo_animation.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\confirm_posloan_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\confirm_posloan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next_step.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\btn_next_step.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rectangle_blue_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\rounded_rectangle_blue_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\licai_chongzhi_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\licai_chongzhi_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shuzi_short_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\shuzi_short_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\jiaoyi_fenrun_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\jiaoyi_fenrun_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_icon.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\tb_munion_icon.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\dadaoedu_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\dadaoedu_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\apply_posloan_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\apply_posloan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shuzi_long_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\shuzi_long_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\t1_tixian_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\t1_tixian_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\qianbao_goumai_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\qianbao_goumai_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_line_vertical.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\common_line_vertical.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\xyk_btn_huankuan_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\xyk_btn_huankuan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\t0_zhuanzhang_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\t0_zhuanzhang_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_get_verfiycode.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\selector_get_verfiycode.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\zhuanzhang_dianhua_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\zhuanzhang_dianhua_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\loan_yihuan_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\loan_yihuan_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next1.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_next1.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_animation.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\loading_animation.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next_step.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\btn_next_step.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\huankuan_queren_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\huankuan_queren_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\zhuangji_selector.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable\\zhuangji_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\shimingchaxun_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\shimingchaxun_selector.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_tixian_selector.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable\\qb_tixian_selector.xml"
+    }
+]

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/popupwindow_bg_up_right_unselected"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp" >
+
+    <TextView
+        android:id="@+id/pop_tv_all"
+        style="@style/pop_tradelist_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="全部" />
+     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="@color/gray"
+        android:text="全部交易记录"
+        android:textSize="12sp" />
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="wrap_content"
+        android:layout_height="0.5dp" />
+
+    <TextView
+        android:id="@+id/pop_tv_cashin"
+        style="@style/pop_tradelist_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="收款" />
+
+     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="@color/gray"
+        android:text="收款交易记录"
+        android:textSize="12sp" />
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="wrap_content"
+        android:layout_height="0.5dp" />
+
+    <TextView
+        android:id="@+id/pop_tv_consume"
+        style="@style/pop_tradelist_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="消费" />
+     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="@color/gray"
+        android:text="消费交易记录"
+        android:textSize="12sp" />
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="wrap_content"
+        android:layout_height="0.5dp" />
+
+    <TextView
+        android:id="@+id/pop_tv_withdraw"
+        style="@style/pop_tradelist_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="提现" />
+     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="@color/gray"
+        android:text="提现交易记录"
+        android:textSize="12sp" />
+
+
+</LinearLayout>

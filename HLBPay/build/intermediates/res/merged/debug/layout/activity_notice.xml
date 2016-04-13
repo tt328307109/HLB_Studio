@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.lk.td.pay.NoticeActivity" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_notice"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <include
+        android:id="@+id/empty_notice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/include_blank"
+        android:visibility="gone" />
+
+    <com.lk.qf.pay.wedget.CustomListView
+        android:id="@+id/lv_notice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.lk.qf.pay.wedget.CustomListView>
+
+</LinearLayout>

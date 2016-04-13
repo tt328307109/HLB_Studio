@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent" android:baselineAligned="true" android:orientation="vertical" android:layout_width="fill_parent" android:weightSum="1">
+  
+  
+    <LinearLayout android:layout_width="fill_parent" android:id="@+id/linearLayout1" android:layout_height="wrap_content">
+
+             <Button
+                 android:id="@+id/btnAPass"
+                 android:layout_width="0dp"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="0.25"
+                 android:text="金额+密码" />
+             
+                  <Button
+                 android:id="@+id/btnANoPass"
+                 android:layout_width="0dp"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="0.25"
+                 android:text="金额+无密码" />
+     
+    </LinearLayout> 
+    
+        <LinearLayout android:layout_width="fill_parent"  android:layout_height="wrap_content">
+
+             <Button
+                 android:id="@+id/btnNoAPass"
+                 android:layout_width="0dp"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="0.25"
+                 android:text="无金额+密码" />
+             
+                  <Button
+                 android:id="@+id/btnNoANoPass"
+                 android:layout_width="0dp"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="0.25"
+                 android:text="无金额+无密码" />
+     
+    </LinearLayout>    
+    
+    
+    
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical" >
+
+     </LinearLayout>
+
+        <LinearLayout
+           android:id="@+id/linearLayout3"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:weightSum="1" >
+
+           <Button
+               android:id="@+id/btnWriteMainKey"
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:layout_weight="0.50"
+               android:text="设置主密钥" />
+
+           <Button
+               android:id="@+id/btnWriteWKey"
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:layout_weight="0.50"
+               android:text="设置工作密钥" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:weightSum="1" >
+
+           <Button
+               android:id="@+id/btnGetMAc"
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               android:layout_weight="0.96"
+               android:text="获取MAC" />
+
+           <Button
+               android:id="@+id/btnTerID"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="设置商户终端号" />
+
+    </LinearLayout>
+    
+        <LinearLayout
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:weightSum="1" >
+
+           <Button
+               android:id="@+id/btndispost"
+               android:layout_width="154dp"
+               android:layout_height="wrap_content"
+               android:text="取消交易" >
+
+        </Button>
+
+           <Button
+               android:id="@+id/btnGetBatty"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="获取电池电量" />
+
+    </LinearLayout>
+    
+      
+
+       
+    <EditText
+        android:id="@+id/editRecvData"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:focusable="false"
+        android:gravity="top"
+        android:inputType="textMultiLine" >
+
+</EditText>
+</LinearLayout>

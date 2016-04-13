@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/black" >
+
+        <LinearLayout
+            android:id="@+id/common_title_back_licai"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/selector_reg_back"
+            android:minWidth="50dp"
+            android:orientation="horizontal"
+            android:paddingRight="5dp" >
+
+            <TextView
+                android:id="@+id/common_title_tv_btnback_licai"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="返回"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/common_title_name_licai"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="center"
+            android:text="理财"
+            android:textColor="@color/white"
+            android:textScaleX="1.1"
+            android:textSize="@dimen/medium_title" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/sl_licai_new"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_shouyi" >
+
+                <TextView
+                    android:id="@+id/tv_licai_new_yesterday_earn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:drawableLeft="@drawable/icon_zuorishouyi"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text="昨日收益(元)"
+                    android:textColor="@color/white"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/tv_licai_new_account_earnings"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_licai_new_yesterday_earn"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="15dp"
+                    android:text="暂无收益"
+                    android:textColor="@color/white"
+                    android:textSize="45sp" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_licai_new_account_earnings"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="20dp" >
+
+                    <TextView
+                        android:id="@+id/tv_licai_new_account_total_earnings"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="总收益(元)"
+                        android:textColor="@color/white"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/tv_licai_new_account_total_earningsAccount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/tv_licai_new_account_total_earnings"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="10dp"
+                        android:text="一一"
+                        android:textColor="@color/white"
+                        android:textSize="22sp" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_biankuang_xian" >
+
+                <TextView
+                    android:id="@+id/tv_licai_new_total_account_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="20dp"
+                    android:drawableLeft="@drawable/icon_zonge"
+                    android:drawablePadding="10dp"
+                    android:text="总金额(元)"
+                    android:textColor="@color/zicolor"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tv_licai_new_total_account"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="30dp"
+                    android:layout_toRightOf="@id/tv_licai_new_total_account_title"
+                    android:text=""
+                    android:textColor="@color/licai_tv_orange"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_biankuang_xian" >
+
+                <TextView
+                    android:id="@+id/tv_licai_new_polyloan_account_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="20dp"
+                    android:drawableLeft="@drawable/icon_zonge"
+                    android:drawablePadding="10dp"
+                    android:text="保理贷款金额(元)"
+                    android:textColor="@color/zicolor"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tv_licai_new_polyloan_account"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="30dp"
+                    android:layout_toRightOf="@id/tv_licai_new_polyloan_account_title"
+                    android:text=""
+                    android:textColor="@color/licai_tv_orange"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_licai_new_list_jilu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_biankuang_xian" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="20dp"
+                    android:drawableLeft="@drawable/icon_licaijilu"
+                    android:drawablePadding="20dp"
+                    android:gravity="center"
+                    android:text="理财记录"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/jiantou_sy" />
+            </RelativeLayout>
+
+            <com.lk.qf.pay.wedget.view.ListViewForScrollView
+                android:id="@+id/ll_list_order_liai_new"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:divider="@null"
+                android:descendantFocusability="blocksDescendants"
+                android:dividerHeight="5dp"
+                android:focusable="false" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

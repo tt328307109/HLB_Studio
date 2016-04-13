@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_create_pay_code_account"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/white" >
+
+        <TextView
+            android:id="@+id/tv_payCode_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:text="金额(元)"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/ed_payCode_account"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/tv_payCode_account"
+            android:background="@null"
+            android:hint="请输入收款金额"
+            android:maxLength="7"
+            android:numeric="decimal"
+            android:textColor="@color/gray"
+            android:textColorHint="@color/lightgray"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_payCode_addBeizhu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@null"
+        android:text="添加收款备注"
+        android:textColor="@color/blue_green"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/btn_payCode_queren"
+        style="@style/btntext_posloan"
+        android:text="确定" />
+
+</LinearLayout>

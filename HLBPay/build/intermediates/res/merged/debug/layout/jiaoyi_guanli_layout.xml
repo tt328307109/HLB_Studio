@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_photo"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_jiaoyi"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <Spinner
+        android:id="@+id/sp_jiaoyi"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/xiala_long"
+        android:dropDownWidth="match_parent"
+        android:gravity="center_vertical"
+        android:prompt="@string/fenrunType" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" >
+
+        <EditText
+            android:id="@+id/ed_jiaoyi_startTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/biankkuang_fenrunguanli_shijian"
+            android:hint="开始时间(格式:20150101)"
+            android:maxLength="8"
+            android:numeric="integer"
+            android:paddingLeft="10dp"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/ed_jiaoyi_endTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ed_jiaoyi_startTime"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/biankkuang_fenrunguanli_shijian"
+            android:hint="结束时间(格式:20150101)"
+            android:maxLength="8"
+            android:numeric="integer"
+            android:paddingLeft="10dp"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btn_jiaoyi_query"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/selector_next_normal"
+            android:text="搜索"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <!--
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/biankuang_dailixinxi_1"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                style="@style/my_textview"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:text="交易汇总金额" />
+
+            <TextView
+                android:id="@+id/tv_jiaoyi_huizongAccount"
+                style="@style/my_textview"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:text="一  一" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                style="@style/my_textview"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:text="交易成功笔数" />
+
+            <TextView
+                android:id="@+id/tv_jiaoyi_count"
+                style="@style/my_textview"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:text="50" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                style="@style/my_textview"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:text="分润总额" />
+
+            <TextView
+                android:id="@+id/tv_fenrun_allAccount"
+                style="@style/my_textview"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:text="20" />
+        </RelativeLayout>
+    </LinearLayout>
+    
+    <Button android:id="@+id/btn_jiaoyi_huizong"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/selector_next_normal"
+        android:text="汇总查询"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/white"/>
+    -->
+
+</LinearLayout>

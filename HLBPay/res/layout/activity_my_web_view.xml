@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="com.td.three.mmb.pay.MyWebView" >
+
+    <RelativeLayout
+        android:id="@+id/rl_title_web"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/blue_main" >
+
+        <LinearLayout
+            android:id="@+id/common_title_back_webBack"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/selector_reg_back"
+            android:minWidth="50dp"
+            android:orientation="horizontal"
+            android:paddingRight="5dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="返回"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/common_title_name_webName"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="center"
+            android:text="真好贷"
+            android:textColor="@color/white"
+            android:textScaleX="1.1"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <WebView
+        android:id="@+id/webview_service1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rl_title_web"
+        android:visibility="gone" />
+
+    <com.lk.qf.pay.wedget.webview.CommonLoadingComponent
+        android:id="@+id/loading_webview1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

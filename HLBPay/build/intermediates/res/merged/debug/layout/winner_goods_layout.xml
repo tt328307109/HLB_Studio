@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBarYellow
+        android:id="@+id/titlebar_my_winner_goodsInfo"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="亲爱的用户:"
+        android:textColor="@color/gray"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_winnerGoodsInfo_showMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textScaleX="1.1"
+        android:text="@string/tvwinner_goodsName1"
+        android:textColor="@color/gray"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/img_winnerGoods_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/morentupian_2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:text="请您尽快提交收货地址,以便为您安排奖品发放,谢谢!"
+        android:textColor="@color/gray"
+        android:textSize="14sp" />
+    
+    <Button android:id="@+id/btn_winnerGoods_queren"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_height="40dp"
+        android:textColor="@color/white"
+        android:text="立即确认收货地址"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/queren_yellow_selector"
+        />
+
+</LinearLayout>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <com.lk.qf.pay.wedget.CommonTitleBar
+            android:id="@+id/titlebar_xinyongka_info"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/titleview_height"
+            android:orientation="vertical" >
+        </com.lk.qf.pay.wedget.CommonTitleBar>
+
+        <Button
+            android:id="@+id/ib_mofiy_xyk_xiugai"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_marginRight="10dp"
+            android:background="@null"
+            android:text="修改"
+            android:textColor="@color/white" />
+    </FrameLayout>
+
+    <!--
+         <TextView
+        android:id="@+id/tv_download1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="加载中..."
+        android:textColor="@color/gray"
+        android:textSize="20sp"
+        android:gravity="center" />
+    -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_xinyongka_info_1"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/img_xyk_info_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/baise" />
+
+            <ImageView
+                android:id="@+id/img_xyk_info_xian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/img_xyk_info_logo"
+                android:background="@drawable/xiantiao_2" />
+
+            <TextView
+                android:id="@+id/tv_xyk_info_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/img_xyk_info_xian"
+                android:text=""
+                android:textColor="@color/gray"
+                android:textSize="16sp" />
+
+            <ImageButton
+                android:id="@+id/btn_xyk_info_hk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:background="@null"
+                android:src="@drawable/xyk_btn_huankuan_selector" />
+        </RelativeLayout>
+
+        <View
+            style="@style/common_line_horizontal_black_style"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tv_xyk_info_zq"
+                style="@style/my_textview_xyk_info"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:text="账单周期:"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_xyk_info_zq_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_toRightOf="@id/tv_xyk_info_zq"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/gray"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_xyk_info_hk"
+                style="@style/my_textview_xyk_info"
+                android:layout_alignRight="@id/tv_xyk_info_zq"
+                android:layout_below="@id/tv_xyk_info_zq"
+                android:layout_marginTop="5dp"
+                android:text="还款日:"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_xyk_info_hkDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_xyk_info_zq_time"
+                android:layout_alignTop="@id/tv_xyk_info_hk"
+                android:layout_toRightOf="@id/tv_xyk_info_hk"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/gray"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tv_xyk_info_edu"
+                style="@style/my_textview_xyk_info"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:text="卡片额度:"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/ed_xyk_info_edu_account"
+                style="@style/my_textview_xyk_info_account"
+                android:layout_alignTop="@id/tv_xyk_info_edu"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/tv_xyk_info_edu"
+                android:background="@null"
+                android:enabled="false"
+                android:hint=""
+                android:maxLength="6"
+                android:numeric="decimal"
+                android:singleLine="true"
+                android:textSize="16sp" />
+
+            <ImageButton
+                android:id="@+id/tv_xyk_info_edu_edit1"
+                style="@style/my_textview_xyk_info_edit"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/btn_bianji_selector" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tv_xyk_info_zhangdan"
+                style="@style/my_textview_xyk_info"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="账单金额:"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/ed_xyk_info_zhangdan_account"
+                style="@style/my_textview_xyk_info_account"
+                android:layout_alignTop="@id/tv_xyk_info_zhangdan"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/tv_xyk_info_zhangdan"
+                android:background="@null"
+                android:enabled="false"
+                android:hint=""
+                android:maxLength="6"
+                android:numeric="decimal"
+                android:singleLine="true"
+                android:textSize="16sp" />
+
+            <ImageButton
+                android:id="@+id/tv_xyk_info_ezhangdan_edit2"
+                style="@style/my_textview_xyk_info_edit"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/btn_bianji_selector" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tv_xyk_info_keyong"
+                style="@style/my_textview_xyk_info"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="可用额度:"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/ed_xyk_info_keyong_account"
+                style="@style/my_textview_xyk_info_account"
+                android:layout_alignTop="@id/tv_xyk_info_keyong"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/tv_xyk_info_keyong"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tv_xyk_info_yihuan"
+                style="@style/my_textview_xyk_info"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="已还金额:"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/ed_xyk_info_yihuan_account"
+                style="@style/my_textview_xyk_info_account"
+                android:layout_alignTop="@id/tv_xyk_info_yihuan"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/tv_xyk_info_yihuan"
+                android:background="@null"
+                android:enabled="false"
+                android:hint=""
+                android:numeric="decimal" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tv_xyk_info_weihuan"
+                style="@style/my_textview_xyk_info"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="未还金额:"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/ed_xyk_info_weihuan_account"
+                style="@style/my_textview_xyk_info_account"
+                android:layout_alignTop="@id/tv_xyk_info_weihuan"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/tv_xyk_info_weihuan"
+                android:background="@null"
+                android:enabled="false"
+                android:hint=""
+                android:numeric="decimal"
+                android:textColor="@color/red"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_xyk_info_isPayOff"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:text=""
+                android:textColor="@color/licai_tv_orange"
+                android:textSize="16sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_xyk_huankuan_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text=""
+        android:textColor="@color/zicolor"
+        android:textSize="16sp" />
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/myPull_refresh_list_xyk_info"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:smoothScrollbar="true"
+        ptr:ptrMode="both" />
+
+</LinearLayout>

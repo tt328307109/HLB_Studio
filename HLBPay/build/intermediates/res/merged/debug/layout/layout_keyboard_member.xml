@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_measure"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom|center"
+    android:background="@drawable/keyboard_bg"
+    android:orientation="vertical"
+    android:visibility="visible" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="180.0dip"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0.0px"
+            android:layout_marginBottom="2.0dip"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_marginTop="10.0dip"
+            android:layout_weight="1.0" >
+
+            <Button
+                android:id="@+id/btn1"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="6.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="1"
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp" />
+
+            <Button
+                android:id="@+id/btn2"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="6.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="2"
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp" />
+
+            <Button
+                android:id="@+id/btn3"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="6.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="3"
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp" />
+
+            <ImageButton
+                android:id="@+id/btnDel"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:src="@drawable/btn_backspace" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0.0px"
+            android:layout_marginBottom="2.0dip"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_weight="1.0" >
+
+            <Button
+                android:id="@+id/btn4"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="6.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="4"
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp" />
+
+            <Button
+                android:id="@+id/btn5"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="6.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="5"
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp" />
+
+            <Button
+                android:id="@+id/btn6"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="6.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="6"
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp" />
+
+            <Button
+                android:id="@+id/btn_point"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="."
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0.0px"
+            android:layout_marginBottom="8.0dip"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_weight="1.0" >
+
+            <Button
+                android:id="@+id/btn7"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="6.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="7"
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp" />
+
+            <Button
+                android:id="@+id/btn8"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="6.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="8"
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp" />
+
+            <Button
+                android:id="@+id/btn9"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="6.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="9"
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp" />
+
+            <Button
+                android:id="@+id/btn0"
+                android:layout_width="0.0px"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@drawable/selector_input_amount"
+                android:gravity="center"
+                android:shadowColor="#ffffffff"
+                android:shadowDx="0.0"
+                android:shadowDy="2.0"
+                android:shadowRadius="1.0"
+                android:text="0"
+                android:textColor="@color/textblack"
+                android:textSize="30.0sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

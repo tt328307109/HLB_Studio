@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/regBackGround"
+    android:orientation="vertical"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/reg_title_height"
+            android:background="@drawable/title_bar_reg" >
+
+            <ImageView
+                android:id="@+id/image_shuax"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:src="@drawable/iconfont_refresh"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/tx_more"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="15dp"
+                android:gravity="center_vertical"
+                android:text="更多"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <TextView
+                style="@style/title_style_normal"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/titleview_height"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:text="用户管理" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/merchant_account_layout"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:padding="10.0dp" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/avatar_male" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="10dp" >
+
+                <TextView
+                    android:id="@+id/tv_uname"
+                    style="@style/mStyle.reg_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/tv_uaccount"
+                    style="@style/mStyle.reg_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:text="" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/account_white_layout_bg"
+            android:orientation="vertical"
+            android:paddingLeft="10.0dp"
+            android:paddingRight="10.0dp" >
+
+            <TextView
+                android:id="@+id/merchant_help_text"
+                android:layout_width="match_parent"
+                android:layout_height="48.0dip"
+                android:background="@drawable/selector_tab_activitygroup"
+                android:drawableLeft="@drawable/pic_wallet_2"
+                android:drawablePadding="8.0dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:text="交易记录"
+                android:textColor="@color/textblack"
+                android:textSize="@dimen/medium" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dip"
+                android:background="@color/lightgray" />
+
+            <TextView
+                android:id="@+id/merchant_notify_text"
+                android:layout_width="match_parent"
+                android:layout_height="48.0dip"
+                android:background="@drawable/selector_tab_activitygroup"
+                android:drawableLeft="@drawable/pic_wallet_4"
+                android:drawablePadding="8.0dp"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:text="设备绑定"
+                android:textColor="@color/textblack"
+                android:textSize="@dimen/medium" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

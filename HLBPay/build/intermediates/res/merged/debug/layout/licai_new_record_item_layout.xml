@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_chanpin_record"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp" >
+
+        <TextView
+            android:id="@+id/tv_licai_new_goods_record_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/bg_biaoti"
+            android:gravity="center"
+            android:text="快易付理财1号"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/tv_show_licaiEaringsAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/tv_licai_new_goods_record_title"
+            android:text=""
+            android:textColor="@color/licai_goods_tv_color" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/tv_licai_new_goods_nh_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="预期年化收益(%)"
+                android:textColor="@color/gray"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_licai_new_goods_record_nh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_licai_new_goods_nh_title"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:text="4.22%"
+                android:textColor="@color/licai_goods_tv_color"
+                android:textSize="20sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center_horizontal" >
+
+            <TextView
+                android:id="@+id/tv_licai_new_goods_qx_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="产品期限"
+                android:textColor="@color/gray"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_licai_new_goods_record_qx"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_licai_new_goods_qx_title"
+                android:layout_marginTop="10dp"
+                android:paddingLeft="10dp"
+                android:text="7"
+                android:textColor="@color/licai_goods_tv_color"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_licai_new_goods_qx_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_licai_new_goods_record_qx"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@id/tv_licai_new_goods_record_qx"
+                android:text="天"
+                android:textColor="@color/gray"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center_horizontal" >
+
+            <TextView
+                android:id="@+id/tv_licai_new_goods_buyaccount_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="买入金额(元)"
+                android:textColor="@color/gray"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_licai_new_goods_buyaccount_record"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_licai_new_goods_buyaccount_title"
+                android:layout_marginTop="10dp"
+                android:paddingLeft="10dp"
+                android:text="1233"
+                android:textColor="@color/licai_goods_tv_color"
+                android:textSize="20sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/tv_licai_record_time_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="买入时间:"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_licai_record_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_licai_record_time_title"
+            android:text="2015/12/12"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <ImageButton
+            android:id="@+id/btn_licai_goods_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="false"
+            android:src="@drawable/licai_record_info_selector" />
+    </RelativeLayout>
+
+</LinearLayout>

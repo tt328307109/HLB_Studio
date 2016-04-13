@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBarYellow
+        android:id="@+id/titlebar_indianCommonProblem"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_q1"
+                style="@style/indiana_common_problem_tv"
+                android:text="@string/indiana_common_problem_q1" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_a1"
+                style="@style/indiana_common_problem_aTv"
+                android:text="@string/indiana_common_problem_a1"
+                />
+
+            <View
+                style="@style/common_line_horizontal_style"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_q2"
+                style="@style/indiana_common_problem_tv"
+                android:text="@string/indiana_common_problem_q2" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_a2"
+                style="@style/indiana_common_problem_aTv"
+                android:text="@string/indiana_common_problem_a2"
+                 />
+
+            <View
+                style="@style/common_line_horizontal_style"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_q3"
+                style="@style/indiana_common_problem_tv"
+                android:text="@string/indiana_common_problem_q3" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_a3"
+                style="@style/indiana_common_problem_aTv"
+                android:text="@string/indiana_common_problem_a3"
+                 />
+
+            <View
+                style="@style/common_line_horizontal_style"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_q4"
+                style="@style/indiana_common_problem_tv"
+                android:text="@string/indiana_common_problem_q4" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_a4"
+                style="@style/indiana_common_problem_aTv"
+                android:text="@string/indiana_common_problem_a4"
+                 />
+
+            <View
+                style="@style/common_line_horizontal_style"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_q5"
+                style="@style/indiana_common_problem_tv"
+                android:text="@string/indiana_common_problem_q5" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_a5"
+                style="@style/indiana_common_problem_aTv"
+                android:text="@string/indiana_common_problem_a5"
+                 />
+
+            <View
+                style="@style/common_line_horizontal_style"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_q6"
+                style="@style/indiana_common_problem_tv"
+                android:text="@string/indiana_common_problem_q6" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_a6"
+                style="@style/indiana_common_problem_aTv"
+                android:text="@string/indiana_common_problem_a6"
+                 />
+
+            <View
+                style="@style/common_line_horizontal_style"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_q7"
+                style="@style/indiana_common_problem_tv"
+                android:text="@string/indiana_common_problem_q7" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_a7"
+                style="@style/indiana_common_problem_aTv"
+                android:text="@string/indiana_common_problem_a7"
+                 />
+
+            <View
+                style="@style/common_line_horizontal_style"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_q8"
+                style="@style/indiana_common_problem_tv"
+                android:text="@string/indiana_common_problem_q8" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_a8"
+                style="@style/indiana_common_problem_aTv"
+                android:text="@string/indiana_common_problem_a8"
+                />
+
+            <View
+                style="@style/common_line_horizontal_style"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_q9"
+                style="@style/indiana_common_problem_tv"
+                android:text="@string/indiana_common_problem_q9" />
+
+            <TextView
+                android:id="@+id/tv_indian_commonProblem_a9"
+                style="@style/indiana_common_problem_aTv"
+                android:text="@string/indiana_common_problem_a9"
+                 />
+
+            <View
+                style="@style/common_line_horizontal_style"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

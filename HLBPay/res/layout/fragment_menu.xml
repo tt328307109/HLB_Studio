@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/rl_menu_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/tv_meun_huilebao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/meun_title" />
+
+        <ImageView
+            android:id="@+id/img_meun_mine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:src="@drawable/icon_yonghu_meun" />
+
+        <TextView
+            android:id="@+id/tv_meun_qiandao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:drawableLeft="@drawable/qiandao"
+            android:gravity="center_vertical"
+            android:text="签到"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <com.lk.qf.pay.wedget.view.AutoPagerView
+        android:id="@+id/auto_pagerview_shouye"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:minHeight="150dp" />
+
+    <RelativeLayout
+        android:id="@+id/rl_tonggao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tonggao" >
+
+        <TextView
+            android:id="@+id/tv_tt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingLeft="20dp"
+            android:text=""
+            android:textSize="16sp" />
+
+        <com.lk.qf.pay.wedget.scrollview.ScrollForeverTextView
+            android:id="@+id/tv_main_tonggao"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toRightOf="@id/tv_tt"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:text=""
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0.0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_shoukuan"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_selector" >
+
+                    <TextView
+                        style="@style/text_main_menu_title"
+                        android:drawableTop="@drawable/aaicon_shoukuan"
+                        android:text="收款" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_11"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_selector" >
+
+                    <TextView
+                        style="@style/text_main_menu_title"
+                        android:drawableTop="@drawable/aaicon_diakuan"
+                        android:text="易贷" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_6"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_selector" >
+
+                    <TextView
+                        style="@style/text_main_menu_title"
+                        android:drawableTop="@drawable/aaicon_shouyiguanli"
+                        android:text="收益查询" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_12"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_selector" >
+
+                    <TextView
+                        style="@style/text_main_menu_title"
+                        android:drawableTop="@drawable/aaicon_kehufuwu"
+                        android:text="客户服务" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+            </LinearLayout>
+
+            <View
+                style="@style/common_line_vertical_style"
+                android:layout_width="0.5dp"
+                android:layout_height="match_parent" />
+
+            <LinearLayout
+                android:layout_width="0.0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0"
+                android:orientation="vertical" >
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_selector" >
+
+                    <TextView
+                        style="@style/text_main_menu_title"
+                        android:drawableTop="@drawable/aaicon_jishuajidao"
+                        android:text="即刷即到" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_10"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_selector" >
+
+                    <TextView
+                        style="@style/text_main_menu_title"
+                        android:drawableTop="@drawable/aaicon_duobao"
+                        android:text="快夺宝" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_7"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_selector" >
+
+                    <TextView
+                        style="@style/text_main_menu_title"
+                        android:drawableTop="@drawable/aaicon_jiaoyiguanli"
+                        android:text="交易管理" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_null1"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@null" >
+
+                    <TextView style="@style/text_main_menu_title" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+            </LinearLayout>
+
+            <View
+                style="@style/common_line_vertical_style"
+                android:layout_width="0.5dp"
+                android:layout_height="match_parent" />
+
+            <LinearLayout
+                android:layout_width="0.0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0"
+                android:orientation="vertical" >
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_selector" >
+
+                    <TextView
+                        style="@style/text_main_menu_title"
+                        android:drawableTop="@drawable/aaicon_licai"
+                        android:text="理财" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_selector" >
+
+                    <TextView
+                        style="@style/text_main_menu_title"
+                        android:drawableTop="@drawable/aaicon_xinyongkaguanli"
+                        android:text="信用卡管理" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_14"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/click_selector" >
+
+                    <TextView
+                        style="@style/text_main_menu_title"
+                        android:drawableTop="@drawable/aaicon_yonghuguanli"
+                        android:text="用户管理" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+
+                <RelativeLayout
+                    android:id="@+id/menu_null2"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@null" >
+
+                    <TextView style="@style/text_main_menu_title" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom" />
+
+</LinearLayout>

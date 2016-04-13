@@ -1,0 +1,1498 @@
+[
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_mask.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\switch_mask.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chaxunjieguo.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bg_chaxunjieguo.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bule_xian_assistor.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bule_xian_assistor.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_xinyongkahuankun.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_xinyongkahuankun.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_unfocused.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kefufuwu_tijiao_01.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\kefufuwu_tijiao_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_left_pressed.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\alert_btn_left_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar4.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pgsbar4.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_arrow.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\refresh_arrow.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_zhuanzhang.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\iconfont_zhuanzhang.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dian_focus.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\banner_dian_focus.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sex_box_bg.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sex_box_bg.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shenghuojiaofei.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_shenghuojiaofei.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_middle_normal.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_id_card_1.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\add_id_card_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\usergiude_3.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\usergiude_3.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow1.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\arrow1.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiugaimima_02.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\xiugaimima_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kefufuwu_tijiao_01.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\kefufuwu_tijiao_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_user.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_user.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bule_xian_assistor.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bule_xian_assistor.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_delete.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_arrow.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\refresh_arrow.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_zhuanzhang.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\iconfont_zhuanzhang.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\weixin.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar6.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pgsbar6.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiayibu_02.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\xiayibu_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_single_pressed.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\alert_btn_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set128_blue.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\set128_blue.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_sales_slip.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bg_sales_slip.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sex_boxline_bg.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sex_boxline_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_white.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\dot_white.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar5.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pgsbar5.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shimingchaxun_queren_02.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\shimingchaxun_queren_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_bg.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\switch_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_simple_48.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\left_simple_48.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_click.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\register_click.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_juse.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bg_juse.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiayibu_01.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\xiayibu_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_my.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\iconfont_my.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiugaimima_02.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\xiugaimima_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_allleft.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_allleft.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bill_credit.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bill_credit.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_single_pressed.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more128.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\more128.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_icon_2.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\tab_icon_2.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_right.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_right.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topbg.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\topbg.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right32.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\right32.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_sales_slip.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bg_sales_slip.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_normal.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\search_bar_edit_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\errorclode128.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\errorclode128.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_bg_nor.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\edittext_bg_nor.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v50_rr.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\v50_rr.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_single_pressed.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\alert_btn_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_chaojizhuanzhang_04.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_chaojizhuanzhang_04.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biankuang_shimingchaxun_01.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\biankuang_shimingchaxun_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\usergiude_1.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\usergiude_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_single_normal.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biankkuang_fenrunguanli_shijian.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\biankkuang_fenrunguanli_shijian.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow1_1.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\arrow1_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_chaojizhuanzhang_02.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_chaojizhuanzhang_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.PNG",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\mm_title_back_pressed.9.PNG"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huise_xian.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\huise_xian.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topbg.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\topbg.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_3.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pic_menu_3.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aicon_goumai_02.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\aicon_goumai_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bank_logo_union.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bank_logo_union.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_blue.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\app_blue.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_yifubao.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_yifubao.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_0.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pic_menu_0.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar1.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pgsbar1.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_bg.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\alert_bg.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.PNG",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.PNG"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_id_card_1.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\add_id_card_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\on.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\on.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_delete.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_weixin.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_weixin.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar0.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pgsbar0.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_et.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bg_et.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dian_blur.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\banner_dian_blur.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe128.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pe128.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_done.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_done.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_beifujin_back.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bg_beifujin_back.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chacha.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\chacha.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_et_focus.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bg_et_focus.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_shoukuan.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\iconfont_shoukuan.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shoujichongzhi.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_shoujichongzhi.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_middle_normal.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_input_pwd.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bg_input_pwd.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_zhengxinchaxun.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_zhengxinchaxun.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_left.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_left.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\search_bar_icon_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_2.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pic_menu_2.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_wuliuchaxun.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_wuliuchaxun.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar0.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pgsbar0.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\editext_bg_press.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\editext_bg_press.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_et.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bg_et.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\search_bar_icon_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok48.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\ok48.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_4.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pic_menu_4.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_bg.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\switch_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chacha.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\chacha.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\usergiude_2.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\usergiude_2.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_middle_pressed.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_white.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\dot_white.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_chaxunjieguo.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bg_chaxunjieguo.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blank128.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\blank128.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_done.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_done.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_reg.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bottom_reg.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiala_long.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\xiala_long.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_chaojizhuanzhang_01.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_chaojizhuanzhang_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_zhifubao.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_zhifubao.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\show_head_toast_bg.9.PNG",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\show_head_toast_bg.9.PNG"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_beifujin_back.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bg_beifujin_back.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_et_focus.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bg_et_focus.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bank_logo_default.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bank_logo_default.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_simple_48.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\left_simple_48.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\usergiude_1.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\usergiude_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shimingchaxun_queren_01.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\shimingchaxun_queren_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_middle_pressed.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safe_quit_1.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\safe_quit_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.PNG",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\mm_title_back_normal.9.PNG"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_baiduqianbao.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_baiduqianbao.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_5.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pic_menu_5.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_plane.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\app_plane.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\content_line.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\content_line.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.PNG",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.PNG"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bluetooth_blue_unbond.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bluetooth_blue_unbond.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_click.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\register_click.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shuaka.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_shuaka.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.PNG",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\mm_title_back_focused.9.PNG"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shoujichongzhi.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_shoujichongzhi.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\normal_key_bg.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\normal_key_bg.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xsearch_msg_pull_arrow_down.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\xsearch_msg_pull_arrow_down.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sex_box_bg.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sex_box_bg.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_my.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\iconfont_my.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_icon_2_s.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\tab_icon_2_s.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lxr.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\lxr.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_juse.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bg_juse.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_right.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_right.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safe_quit_2.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\safe_quit_2.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app128.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\app128.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_bottom_pressed.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shimingchaxun_queren_02.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\shimingchaxun_queren_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\show_head_toast_bg.9.PNG",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\show_head_toast_bg.9.PNG"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bank_logo_union.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bank_logo_union.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blank128.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\blank128.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_user.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_user.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_bottom_pressed.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button1_1.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\button1_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dian_focus.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\banner_dian_focus.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_allright.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_allright.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner_dian_blur.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\banner_dian_blur.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xsearch_loading.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\xsearch_loading.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow1.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\arrow1.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trans_bg.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\trans_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_pressed.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\search_bar_edit_pressed.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\showresultbg.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\showresultbg.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_brush.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bg_brush.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_reg_p.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bottom_reg_p.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_bottom_normal.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_title.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pic_title.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_1.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pic_menu_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_space.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_space.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_wuliuchaxun.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_wuliuchaxun.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok32.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\ok32.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe128_blue.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pe128_blue.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emotionstore_progresscancelbtn.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_zhengxinchaxun.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_zhengxinchaxun.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar6.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pgsbar6.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_lock.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\iconfont_lock.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_normal.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\search_bar_edit_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_jipiao.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_jipiao.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok32.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\ok32.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_bg.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\alert_bg.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_pressed.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\search_bar_edit_pressed.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aicon_goumai_01.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\aicon_goumai_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\usergiude_2.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\usergiude_2.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_magnetic.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bg_magnetic.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_id_card_2.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\add_id_card_2.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar5.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pgsbar5.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kefufuwu_tijiao_02.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\kefufuwu_tijiao_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiayibu_02.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\xiayibu_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.PNG",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\mm_title_back_normal.9.PNG"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_weixin.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_weixin.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bluetooth_blue.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bluetooth_blue.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar3.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pgsbar3.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok48.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\ok48.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_input_pwd.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bg_input_pwd.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_top_normal.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe128.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pe128.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_unfocused.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trans_bg.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\trans_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.PNG",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\mm_title_back_focused.9.PNG"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_brush.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bg_brush.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huise_xian.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\huise_xian.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sex_boxline_bg.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sex_boxline_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\weixin.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_light.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\dot_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_space.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_space.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set128_blue.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\set128_blue.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_0.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pic_menu_0.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar1.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pgsbar1.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_light.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\dot_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_left_pressed.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\alert_btn_left_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more128_blue.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\more128_blue.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg48.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\msg48.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shimingchaxun_queren_01.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\shimingchaxun_queren_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xsearch_msg_pull_arrow_down.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\xsearch_msg_pull_arrow_down.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_focused.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiugaimima_01.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\xiugaimima_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\usergiude_4.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\usergiude_4.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_right_pressed.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\alert_btn_right_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_single_pressed.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kefufuwu_tijiao_02.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\kefufuwu_tijiao_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\normal_key_bg.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\normal_key_bg.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiala_long.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\xiala_long.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app128.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\app128.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v50_success.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\v50_success.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_id_card_2.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\add_id_card_2.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar4.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pgsbar4.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shuaka.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_shuaka.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more128.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\more128.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safe_quit_1.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\safe_quit_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right32.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\right32.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\payment_payed.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\payment_payed.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xsearch_loading.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\xsearch_loading.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_button_press.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pay_button_press.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_bottom_normal.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\usergiude_3.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\usergiude_3.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_shoukuan.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\iconfont_shoukuan.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_focused.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_yifubao.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_yifubao.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_return.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_baiduqianbao.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_baiduqianbao.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_icon_2.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\tab_icon_2.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safe_quit_2.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\safe_quit_2.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_wancheng_01.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_wancheng_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\usergiude_4.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\usergiude_4.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set128.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\set128.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_chaojizhuanzhang_01.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_chaojizhuanzhang_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe128_blue.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pe128_blue.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v50_yyy.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\v50_yyy.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v50_fail.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\v50_fail.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_left.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_left.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_2.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pic_menu_2.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_blue.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\app_blue.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button1.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\button1.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_nfc.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bg_nfc.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_xinyongkahuankun.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_xinyongkahuankun.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_unclick.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\login_unclick.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_3.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pic_menu_3.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_chaojizhuanzhang_04.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_chaojizhuanzhang_04.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\editext_bg_press.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\editext_bg_press.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v50_fail.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\v50_fail.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_wancheng_02.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_wancheng_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_unclick.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\login_unclick.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more128_blue.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\more128_blue.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_chaojizhuanzhang_03.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_chaojizhuanzhang_03.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_shift.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_shift.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_zhifubao.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_zhifubao.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biankkuang_fenrunguanli_shijian.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\biankkuang_fenrunguanli_shijian.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_return.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set128.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\set128.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_beifujin.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_beifujin.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bank_logo_default.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bank_logo_default.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_button_nor.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pay_button_nor.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lxr.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\lxr.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_top_pressed.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_allleft.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_allleft.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_1.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pic_menu_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_top_normal.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_top_pressed.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_jipiao.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_jipiao.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_wancheng_01.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_wancheng_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_5.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pic_menu_5.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg48.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\msg48.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar2.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pgsbar2.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biankuang_shimingchaxun_01.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\biankuang_shimingchaxun_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_button_press.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pay_button_press.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_wifi_disable.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_magnetic.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bg_magnetic.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shenghuojiaofei.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_shenghuojiaofei.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\content_line.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\content_line.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\normal_key_hl_bg.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\normal_key_hl_bg.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aicon_goumai_01.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\aicon_goumai_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_chaojizhuanzhang_03.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_chaojizhuanzhang_03.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_shift.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_shift.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_wifi_disable.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit48.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\edit48.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow1_1.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\arrow1_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar3.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pgsbar3.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\normal_key_hl_bg.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\normal_key_hl_bg.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v50_success.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\v50_success.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_bg_nor.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\edittext_bg_nor.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_reg_p.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bottom_reg_p.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_button_nor.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\pay_button_nor.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bluetooth_blue.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bluetooth_blue.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiayibu_01.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\xiayibu_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\on.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\on.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_allright.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\sym_keyboard_allright.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\errorclode128.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\errorclode128.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popupwindow_bg_up_right_unselected.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\popupwindow_bg_up_right_unselected.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_nfc.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bg_nfc.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bluetooth_blue_unbond.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bluetooth_blue_unbond.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_plane.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\app_plane.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pgsbar2.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pgsbar2.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\payment_payed.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\payment_payed.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit48.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\edit48.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_beifujin.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_beifujin.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v50_yyy.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\v50_yyy.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_reg.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\bottom_reg.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_mask.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\switch_mask.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_icon_2_s.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\tab_icon_2_s.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bill_credit.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\bill_credit.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emotionstore_progresscancelbtn.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_btn_right_pressed.9.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\alert_btn_right_pressed.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button1.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\button1.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.PNG",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\mm_title_back_pressed.9.PNG"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aicon_goumai_02.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\aicon_goumai_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_wancheng_02.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\icon_wancheng_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_menu_4.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pic_menu_4.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionsheet_single_normal.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button1_1.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\button1_1.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\showresultbg.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\showresultbg.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v50_rr.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\v50_rr.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_chaojizhuanzhang_02.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\icon_chaojizhuanzhang_02.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_title.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\pic_title.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popupwindow_bg_up_right_unselected.9.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\popupwindow_bg_up_right_unselected.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiugaimima_01.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-hdpi\\xiugaimima_01.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconfont_lock.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-hdpi\\iconfont_lock.png"
+    }
+]

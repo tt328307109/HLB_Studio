@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/img_indiana_canyu_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/morentouxiang_boy" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/tv_indiana_canyu_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="地地道道"
+            android:textColor="@color/blue_main"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_indiana_canyu_addr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_indiana_canyu_name"
+            android:text=""
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_indiana_canyu_addr_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_indiana_canyu_name"
+            android:layout_toRightOf="@id/tv_indiana_canyu_addr"
+            android:text="重庆"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_indiana_canyu_addr2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_indiana_canyu_name"
+            android:layout_toRightOf="@id/tv_indiana_canyu_addr_city"
+            android:text="ip地址:"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_indiana_canyu_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_indiana_canyu_addr"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_indiana_canyu_addr2"
+            android:text="192.168.1.1"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_indiana_canyu_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_indiana_canyu_addr"
+            android:text="参与"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_indiana_canyu_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_indiana_canyu_1"
+            android:layout_toRightOf="@id/tv_indiana_canyu_1"
+            android:text="11"
+            android:textColor="@color/blue_main"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_indiana_canyu_renci"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_indiana_canyu_1"
+            android:layout_toRightOf="@id/tv_indiana_canyu_num"
+            android:text="人次"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_indiana_canyu_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_indiana_canyu_1"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_indiana_canyu_renci"
+            android:text="2016-12-14 12:12:12"
+            android:textColor="@color/gray"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</LinearLayout>

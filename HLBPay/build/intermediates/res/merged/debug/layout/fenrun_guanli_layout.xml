@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_fen_run_guanli"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/rl_sy_all"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_sy_background"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" >
+
+            <TextView
+                style="@style/text_sy_title"
+                android:paddingBottom="5dp"
+                android:text="总收益"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_sy_all_account"
+                style="@style/text_sy_account"
+                android:text="" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_sy_mpos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_sy_background"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" >
+
+            <TextView
+                style="@style/text_sy_title"
+                android:text="刷卡收益" />
+
+            <TextView
+                android:id="@+id/tv_sy_mpos_account"
+                style="@style/text_sy_account"
+                android:text="" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_sy_zhuangji"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_sy_background"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" >
+
+            <TextView
+                style="@style/text_sy_title"
+                android:text="装机收益" />
+
+            <TextView
+                android:id="@+id/tv_sy_zj_account"
+                style="@style/text_sy_account"
+                android:text="" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_sy_xyk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_sy_background"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" >
+
+            <TextView
+                style="@style/text_sy_title"
+                android:text="信用卡收益" />
+
+            <TextView
+                android:id="@+id/tv_sy_xyk_account"
+                style="@style/text_sy_account"
+                android:text="" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_sy_t0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_sy_background"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" >
+
+            <TextView
+                style="@style/text_sy_title"
+                android:text="T0收益" />
+
+            <TextView
+                android:id="@+id/tv_sy_t0_account"
+                style="@style/text_sy_account"
+                android:text="" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_sy_up"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_sy_background"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" >
+
+            <TextView
+                style="@style/text_sy_title"
+                android:text="商户升级收益" />
+
+            <TextView
+                android:id="@+id/tv_sy_up_account"
+                style="@style/text_sy_account"
+                android:text="" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_sy_superpay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_sy_background"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" >
+
+            <TextView
+                style="@style/text_sy_title"
+                android:text="即刷即到收益" />
+
+            <TextView
+                android:id="@+id/tv_sy_superpay_account"
+                style="@style/text_sy_account"
+                android:text="" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

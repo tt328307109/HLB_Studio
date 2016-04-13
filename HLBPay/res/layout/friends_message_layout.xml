@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_posLoan_friends_message"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_friends_message_background"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/text_posloan_title_1"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:text="第一联系人(直系亲属)" />
+
+                <View style="@style/common_line_horizontal_style1" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        style="@style/text_posloan_title"
+                        android:text="姓名" />
+
+                    <EditText
+                        android:id="@+id/ed_posLoan_friends_name1"
+                        style="@style/edtext_posloan"
+                        android:hint="请输入姓名" />
+                </RelativeLayout>
+
+                <View style="@style/common_line_horizontal_style1" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        style="@style/text_posloan_title"
+                        android:text="电话" />
+
+                    <EditText
+                        android:id="@+id/ed_posLoan_friends_num1"
+                        style="@style/edtext_posloan"
+                        android:hint="请输入联系电话"
+                        android:inputType="phone"
+                        android:maxLength="11" />
+                </RelativeLayout>
+
+                <!--
+                <View style="@style/common_line_horizontal_style1" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        style="@style/text_posloan_title"
+                        android:text="关系" />
+
+                    <EditText
+                        android:id="@+id/ed_posLoan_friends_guanxi1"
+                        style="@style/edtext_posloan"
+                        android:hint="请输入与联系人的关系" />
+                </RelativeLayout>
+                -->
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_friends_message_background"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/text_posloan_title_1"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:text="第二联系人(朋友)" />
+
+                <View style="@style/common_line_horizontal_style1" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        style="@style/text_posloan_title"
+                        android:text="姓名" />
+
+                    <EditText
+                        android:id="@+id/ed_posLoan_friends_name2"
+                        style="@style/edtext_posloan"
+                        android:hint="请输入姓名" />
+                </RelativeLayout>
+
+                <View style="@style/common_line_horizontal_style1" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        style="@style/text_posloan_title"
+                        android:text="电话" />
+
+                    <EditText
+                        android:id="@+id/ed_posLoan_friends_num2"
+                        style="@style/edtext_posloan"
+                        android:hint="请输入联系电话"
+                        android:inputType="phone"
+                        android:maxLength="11" />
+                </RelativeLayout>
+
+                <!--
+                <View style="@style/common_line_horizontal_style1" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        style="@style/text_posloan_title"
+                        android:text="关系" />
+
+                    <EditText
+                        android:id="@+id/ed_posLoan_friends_guanxi2"
+                        style="@style/edtext_posloan"
+                        android:hint="请输入与联系人的关系" />
+                </RelativeLayout>
+                -->
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_friends_message_background"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/text_posloan_title_1"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:text="第三联系人(同事)" />
+
+                <View style="@style/common_line_horizontal_style1" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        style="@style/text_posloan_title"
+                        android:text="姓名" />
+
+                    <EditText
+                        android:id="@+id/ed_posLoan_friends_name3"
+                        style="@style/edtext_posloan"
+                        android:hint="请输入姓名" />
+                </RelativeLayout>
+
+                <View style="@style/common_line_horizontal_style1" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        style="@style/text_posloan_title"
+                        android:text="电话" />
+
+                    <EditText
+                        android:id="@+id/ed_posLoan_friends_num3"
+                        style="@style/edtext_posloan"
+                        android:hint="请输入联系电话"
+                        android:inputType="phone"
+                        android:maxLength="11" />
+                </RelativeLayout>
+
+                <!--
+                <View style="@style/common_line_horizontal_style1" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        style="@style/text_posloan_title"
+                        android:text="关系" />
+
+                    <EditText
+                        android:id="@+id/ed_posLoan_friends_guanxi3"
+                        style="@style/edtext_posloan"
+                        android:hint="请输入与联系人的关系" />
+                </RelativeLayout>
+                -->
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_friends_message_next"
+                style="@style/btntext_posloan"
+                android:text="下一步" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

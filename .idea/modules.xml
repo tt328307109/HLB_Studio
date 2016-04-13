@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HLBPay/HLBPay.iml" filepath="$PROJECT_DIR$/HLBPay/HLBPay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HLB_Studio.iml" filepath="$PROJECT_DIR$/HLB_Studio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp" >
+
+    <TextView
+        android:id="@+id/tv_tixian_item_account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+        android:text="89"
+        android:textColor="@color/account_color"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_tixian_item_sxAccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_tixian_item_account"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="5dp"
+        android:text="一一"
+        android:textColor="@color/gray"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_tixian_item_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/tv_tixian_item_account"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="10dp"
+        android:text="201512120302"
+        android:textColor="@color/gray"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_tixian_item_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/tv_tixian_item_time"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:text="未处理"
+        android:textColor="@color/gray"
+        android:textSize="14sp" />
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_below="@id/tv_tixian_item_num"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp" />
+
+</RelativeLayout>

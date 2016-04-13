@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent" >
+
+            <ImageView
+                android:id="@+id/login_logo_imv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/login" />
+
+            <LinearLayout
+                android:id="@+id/ll_login_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/login_logo_imv"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:orientation="vertical" >
+
+                    <com.lk.qf.pay.wedget.XEditText
+                        android:id="@+id/et_login_username"
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/reg_input_height"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="5dp"
+                        android:background="@null"
+                        android:drawableLeft="@drawable/pic_account"
+                        android:drawablePadding="15dp"
+                        android:focusableInTouchMode="true"
+                        android:gravity="left|center"
+                        android:hint="@string/phone_number"
+                        android:inputType="phone"
+                        android:maxLength="15"
+                        android:paddingLeft="20dp"
+                        android:paddingRight="10dp"
+                        android:textColorHint="@color/lightgray" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:background="@drawable/xian" />
+
+                    <EditText
+                        android:id="@+id/et_login_pwd"
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/reg_input_height"
+                        android:layout_gravity="bottom"
+                        android:layout_marginTop="5dp"
+                        android:background="@null"
+                        android:drawableLeft="@drawable/pic_pwd"
+                        android:drawablePadding="15dp"
+                        android:gravity="left|center"
+                        android:hint="@string/pwd"
+                        android:imeActionLabel="@string/login"
+                        android:inputType="textPassword"
+                        android:maxLength="15"
+                        android:paddingLeft="20dp"
+                        android:paddingRight="10dp"
+                        android:textColorHint="@color/lightgray" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:background="@drawable/xian" />
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/btn_login"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:layout_margin="20dp"
+                    android:background="@drawable/selector_next_normal"
+                    android:text="@string/login"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/large" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp" >
+
+                    <TextView
+                        android:id="@+id/tv_forget_pwd"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:text="@string/forget_pwd_tip"
+                        android:textColor="@color/zicolor"
+                        android:textSize="@dimen/medium" />
+
+                    <TextView
+                        android:id="@+id/login_register"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:text="新用户注册"
+                        android:textColor="@color/zicolor"
+                        android:textSize="@dimen/medium" />
+                </RelativeLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/tv_login_version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:padding="10dp"
+        android:textColor="@color/lightgray" />
+
+</LinearLayout>

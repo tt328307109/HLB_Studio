@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+         >
+
+        <TextView
+            android:id="@+id/tv_transfer_item_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="200"
+            android:textStyle="bold"
+            android:textColor="@color/account_color"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_transfer_item_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_transfer_item_account"
+            android:layout_marginTop="5dp"
+            android:text="张三"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:id="@+id/tv_transfer_item_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="转账成功"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_transfer_item_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_transfer_item_type"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="2012-12-12"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

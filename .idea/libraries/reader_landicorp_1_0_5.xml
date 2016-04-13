@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="reader_landicorp_1.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HLBPay/libs/reader_landicorp_1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

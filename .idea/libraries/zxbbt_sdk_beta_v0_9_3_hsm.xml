@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zxbbt_sdk_beta_v0.9.3_hsm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HLBPay/libs/zxbbt_sdk_beta_v0.9.3_hsm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

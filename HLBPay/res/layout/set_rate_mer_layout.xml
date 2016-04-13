@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_rate_mer"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/biankuang_dailixinxi_1"
+        android:orientation="horizontal" >
+
+        <RadioGroup
+            android:id="@+id/rg_rate_mer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rbtn_rate_minsheng"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="民生类"
+                android:textColor="@color/zicolor"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rbtn_rate_yiban"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="一般类"
+                android:textColor="@color/zicolor"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rbtn_rate_canyin"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="餐饮类"
+                android:textColor="@color/zicolor"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:id="@+id/rbtn_rate_pifa"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="批发类"
+                android:textColor="@color/zicolor"
+                android:textSize="15sp" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/ed_mer_rate_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/biankuang_dailixinxi_1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:maxLength="5"
+        android:hint="0.78" />
+    
+    <EditText
+        android:id="@+id/ed_mer_rate_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/biankuang_dailixinxi_1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical"
+        android:maxLength="5"
+        android:paddingLeft="20dp"
+        android:hint="26" />
+
+    <ImageButton
+        android:id="@+id/btn_mer_rate_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/next_tep" />
+
+</LinearLayout>

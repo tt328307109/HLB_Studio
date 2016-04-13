@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_apply"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/white"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    style="@style/add_creditcard_rl"
+                    android:clickable="false" >
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_name"
+                        style="@style/text_xyk_add"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:text="开户姓名" />
+
+                    <TextView
+                        android:id="@+id/ed_applyCard_Name"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_applyCard_name"
+                        android:background="@null"
+                        android:maxLength="7" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout
+                    style="@style/add_creditcard_rl"
+                    android:clickable="false" >
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_phone"
+                        style="@style/text_xyk_add"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:text="手机号" />
+
+                    <TextView
+                        android:id="@+id/ed_applyCard_phoneNum"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_applyCard_phone"
+                        android:background="@null" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_banCardNum"
+                        style="@style/text_xyk_add"
+                        android:text="信用卡卡号" />
+
+                    <TextView
+                        android:id="@+id/ed_applyCard_bankCardNum"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_applyCard_banCardNum" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout
+                    android:id="@+id/rl_applyCard_bankName"
+                    style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_bank"
+                        style="@style/text_xyk_add"
+                        android:text="开户银行" />
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_bankName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_toRightOf="@id/tv_applyCard_bank"
+                        android:gravity="center"
+                        android:hint="请选择开户银行"
+                        android:text=""
+                        android:textColor="@color/zicolor"
+                        android:textColorHint="@color/lightgray"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="20dp"
+                        android:background="@drawable/jiantou_sy"
+                        android:visibility="gone" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout
+                    android:id="@+id/rl_apply_select_zdDay"
+                    style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_zhangdan"
+                        style="@style/text_xyk_add"
+                        android:text="账单日" />
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_zhangdanDate"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_toRightOf="@id/tv_applyCard_zhangdan"
+                        android:gravity="center_horizontal"
+                        android:hint="选择账单日"
+                        android:textColor="@color/zicolor"
+                        android:textColorHint="@color/lightgray"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="20dp"
+                        android:background="@drawable/jiantou_sy"
+                        android:visibility="gone" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+                
+                            <RelativeLayout
+                    android:id="@+id/rl_apply_select_zdDay"
+                    style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_zhangdan2"
+                        style="@style/text_xyk_add"
+                        android:text="还款天数" />
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_zhangdanDate2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_toRightOf="@id/tv_applyCard_zhangdan2"
+                        android:gravity="center_horizontal"
+                        android:textColor="@color/zicolor"
+                        android:textColorHint="@color/lightgray"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="20dp"
+                        android:background="@drawable/jiantou_sy"
+                        android:visibility="gone" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_ransom_money"
+                        style="@style/text_xyk_add"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:text="还款金额" />
+
+                    <EditText
+                        android:id="@+id/ed_ransom_money"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_ransom_money"
+                        android:hint="请输入还款金额"
+                        android:inputType="number" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp"
+                    android:visibility="gone" />
+
+                <RelativeLayout
+                    style="@style/add_creditcard_rl"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tv_ransom_count"
+                        style="@style/text_xyk_add"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:text="还款期数" />
+
+                    <EditText
+                        android:id="@+id/ed_ransom"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_ransom_count"
+                        android:hint="请输入还款期数" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp"
+                    android:visibility="gone" />
+
+                <RelativeLayout
+                    style="@style/add_creditcard_rl"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_edu1"
+                        style="@style/text_xyk_add"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:text="信用额度" />
+
+                    <EditText
+                        android:id="@+id/ed_applyCard_edu"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_applyCard_edu1"
+                        android:hint="请输入信用卡额度"
+                        android:maxLength="7"
+                        android:numeric="decimal" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp"
+                    android:visibility="gone" />
+
+                <RelativeLayout
+                    style="@style/add_creditcard_rl"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_addr"
+                        style="@style/text_xyk_add"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:text="邮回地址" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_toRightOf="@id/tv_applyCard_addr"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/tv_applyCard_addressPro"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:drawableRight="@drawable/address_jiantou_2"
+                            android:gravity="center"
+                            android:text="重庆市"
+                            android:textColor="@color/zicolor"
+                            android:textSize="16sp" />
+
+                        <TextView
+                            android:id="@+id/tv_applyCard_addressCity"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="1"
+                            android:drawableRight="@drawable/address_jiantou_2"
+                            android:gravity="center"
+                            android:text="市辖区"
+                            android:textColor="@color/zicolor"
+                            android:textSize="16sp" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp"
+                    android:visibility="gone" />
+
+                <RelativeLayout
+                    style="@style/add_creditcard_rl"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tv_applyCard_addr2"
+                        style="@style/text_xyk_add"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:text="详细地址" />
+
+                    <EditText
+                        android:id="@+id/ed_applyCard_address"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_applyCard_addr2"
+                        android:hint="请输入详细收货地址" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp"
+                    android:visibility="gone" />
+
+                <RelativeLayout
+                    style="@style/add_creditcard_rl"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/tv_ransom_pwd"
+                        style="@style/text_xyk_add"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:text="密码" />
+
+                    <EditText
+                        android:id="@+id/ed_ransom_pwd"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_ransom_pwd"
+                        android:hint="请输入密码"
+                        android:inputType="textPassword" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:visibility="gone" >
+
+                <CheckBox
+                    android:id="@+id/cb_add_creditCard_agree"
+                    style="@style/MyCheckBox2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:checked="true" />
+
+                <TextView
+                    android:id="@+id/tv_add_creditCard_agree_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="3dp"
+                    android:layout_toRightOf="@id/cb_add_creditCard_agree"
+                    android:text="同意"
+                    android:textColor="@color/gray" />
+
+                <TextView
+                    android:id="@+id/tv_add_creditCard_agree"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@id/tv_add_creditCard_agree_1"
+                    android:text="@string/credit_card_xieyi_1"
+                    android:textColor="@color/blue"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/btn_applyCard_tijiao"
+                style="@style/btntext_posloan"
+                android:text="提交" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

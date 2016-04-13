@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+   <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_bar_reg" >
+
+        <TextView
+            style="@style/textview_title"
+            android:text="刷卡器绑定" />
+    </RelativeLayout>
+    <Button
+      android:id="@+id/btnBT"
+      android:layout_margin="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="45dp"
+            android:background="@drawable/login_selector"
+            android:text="搜索蓝牙设备"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    <ImageView 
+        android:id="@+id/img_anim_scanbt"
+        android:visibility="gone"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"/>
+    
+
+    <ListView
+        android:id="@+id/lv_indicator_BTPOS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#FFA0A0A0"
+        android:dividerHeight="1dp"
+        android:listSelector="#00FFFFFF"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:scrollbars="none" >
+    </ListView>
+
+</LinearLayout>

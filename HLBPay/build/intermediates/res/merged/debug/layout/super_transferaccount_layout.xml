@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_photo"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_super"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical" >
+
+            <RadioGroup
+                android:id="@+id/rg_super_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/rb_super1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:checked="true"
+                    android:text="对私"
+                    android:textColor="@color/zicolor"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/rb_super2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_weight="1"
+                    android:text="对公"
+                    android:textColor="@color/zicolor"
+                    android:textSize="16sp" />
+            </RadioGroup>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_super_name"
+                    style="@style/my_textview2"
+                    android:layout_marginLeft="46dp"
+                    android:text="姓名:" />
+
+                <EditText
+                    android:id="@+id/ed_super_name"
+                    style="@style/my_textview_hint"
+                    android:background="@drawable/biankuang_shimingchaxun_01"
+                    android:hint="请输入持卡人姓名" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_super_cardNum"
+                    style="@style/my_textview2"
+                    android:layout_marginLeft="10dp"
+                    android:text="银行卡号:" />
+
+                <EditText
+                    android:id="@+id/ed_super_cardNUm"
+                    style="@style/my_textview_hint"
+                    android:background="@drawable/biankuang_shimingchaxun_01"
+                    android:hint="请输入银行卡号"
+                    android:numeric="decimal" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_super_phone"
+                    style="@style/my_textview2"
+                    android:layout_marginLeft="28dp"
+                    android:text="手机号:" />
+
+                <EditText
+                    android:id="@+id/ed_super_phone"
+                    style="@style/my_textview_hint"
+                    android:background="@drawable/biankuang_shimingchaxun_01"
+                    android:hint="请输入持卡人手机号"
+                    android:maxLength="11"
+                    android:phoneNumber="true" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_super_bank"
+                    style="@style/my_textview2"
+                    android:layout_marginLeft="10dp"
+                    android:text="开户银行:" />
+
+                <EditText
+                    android:id="@+id/ed_super_bank"
+                    style="@style/my_textview_hint"
+                    android:background="@drawable/biankuang_shimingchaxun_01"
+                    android:hint="请输入开户银行(如:中国银行)" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_super_bankzh"
+                    style="@style/my_textview2"
+                    android:layout_marginLeft="10dp"
+                    android:text="开户支行:" />
+
+                <EditText
+                    android:id="@+id/ed_super_bankzh"
+                    style="@style/my_textview_hint"
+                    android:background="@drawable/biankuang_shimingchaxun_01"
+                    android:hint="请输入开户支行(可选)" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_super_account"
+                    style="@style/my_textview2"
+                    android:layout_marginLeft="46dp"
+                    android:text="金额:" />
+
+                <EditText
+                    android:id="@+id/ed_super_account"
+                    style="@style/my_textview_hint"
+                    android:background="@drawable/biankuang_shimingchaxun_01"
+                    android:hint="请输入转账金额"
+                    android:numeric="decimal" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_super_yzCode"
+                    style="@style/my_textview2"
+                    android:layout_marginLeft="28dp"
+                    android:text="验证码:" />
+
+                <EditText
+                    android:id="@+id/ed_super_yzCode"
+                    android:layout_width="132dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/biankuang_shimingchaxun_01"
+                    android:gravity="center_vertical"
+                    android:hint="请输入验证码"
+                    android:numeric="decimal"
+                    android:paddingLeft="10dp"
+                    android:singleLine="true"
+                    android:textColorHint="@color/lightgray" />
+
+                <Button
+                    android:id="@+id/btn_super_getCode"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/selector_next_normal"
+                    android:text="获取验证码"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/btn_super_t0"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/selector_next_normal"
+                    android:text="完成"
+                    android:textColor="@color/white"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_tixian_beizhu1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:text="备注:服务费每笔2元"
+                android:textColor="@color/zicolor"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

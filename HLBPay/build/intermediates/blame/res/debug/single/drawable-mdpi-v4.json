@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    }
+]

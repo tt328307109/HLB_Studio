@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_posLoan_apply"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bg_shurukuang" >
+
+        <TextView
+            android:id="@+id/tv_apply_poly_loan_edu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:text="授信额度"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_apply_poly_loan_eduAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="30dp"
+            android:text="一一"
+            android:textColor="@color/licai_tv_orange"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_shurukuang" >
+
+        <TextView
+            android:id="@+id/tv_apply_poly_loan_amount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:text="贷款金额(元)"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/ed_apply_poly_loan_account"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/tv_apply_poly_loan_amount"
+            android:background="@null"
+            android:hint="贷款金额须小于授信额度"
+            android:numeric="decimal"
+            android:textColorHint="@color/lightgray"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_poly_loan_RuleDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/poly_loan_guize"
+        android:textColor="@color/gray"
+        android:textSize="16sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp" >
+
+        <CheckBox
+            android:id="@+id/cb_poly_loan_agree"
+            style="@style/MyCheckBox2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:checked="true" />
+
+        <TextView
+            android:id="@+id/tv_poly_loan_agree_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="3dp"
+            android:layout_toRightOf="@id/cb_poly_loan_agree"
+            android:text="同意"
+            android:textColor="@color/gray" />
+
+        <TextView
+            android:id="@+id/tv_poly_loan_agree"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_poly_loan_agree_1"
+            android:text="@string/polyloan_xieyi"
+            android:textColor="@color/blue"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_apply_polyloans"
+        style="@style/btntext_posloan"
+        android:background="@drawable/licai_mairu_selector"
+        android:text="确认申请" />
+
+</LinearLayout>

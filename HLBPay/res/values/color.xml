@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+     <color name="titleBar_yellow">#ff9d01</color>
+     <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="indiana_show_tupian">#adadad</color>
+    <color name="credit_repay_mx_bg">#f4f4f4</color>
+    <color name="credit_repay_date_mx_bg">#d66d93</color>
+    <color name="credit_repay_mx_tv">#196dbf</color>
+    <color name="credit_repay_mx_qs">#42bdbd</color>
+    
+    <color name="black21">#212121</color>
+    <color name="background_color">#F0F0F0</color>
+    <color name="transparent_back">#55000000</color>
+    <color name="app_bg">#f5f5f5</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    
+    <color name="red">#FF0000</color>
+    <color name="zicolor">#5B5B5B</color>
+    <color name="licai_tv_orange">#ff680d</color>
+    <color name="namezicolor">#2c2c2c</color>
+    <color name="userName_color">#606060</color>
+    <color name="xyk_orange">#b43b3b</color>
+ <!-- 红色 -->
+    <color name="shoukuan">#ff5a00</color>
+    <color name="credit_card_type">#fb0a01</color>
+ <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="title_bule">#00a8ff</color>
+ <!-- 白色 -->
+    <color name="black">#000000</color>
+ <!-- 黄色 -->
+    <color name="yellow">#FFFF00</color>
+ <!-- 蓝色 -->
+    <color name="blue">#007AFF</color>
+ <!-- 蓝色 -->
+    <color name="blue_main">#196dbf</color>
+ <!-- 蓝色 主题 -->
+    <color name="green">#5eb75e</color>
+ <!-- 绿色 -->
+    <color name="reseda">#00ff99</color>
+ <!-- 浅绿色 -->
+    <color name="violet">#6600FF</color>
+ <!-- 紫色 -->
+    <color name="brown">#714f16</color>
+ <!-- 褐色 -->
+    <color name="gray">#808a87</color>
+    <color name="licai_goods_tv_color">#ff6b00</color>
+ <!-- 灰色 -->
+    <color name="blue_green">#119FA9</color>
+    <color name="account_color">#5280e0</color>
+ <!-- 蓝绿色-菜单/标题背景色 -->
+    <color name="orange">#ffff8800</color>
+    <color name="account_white_layout_bg">#fff8f6f3</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="lightgray">#ffd1d6da</color>
+    <color name="darkgray">#ff676d72</color>
+    <color name="tab_indiana_textcolor">#ff7200</color>
+    <color name="textblack">#ff3f4245</color>
+    <color name="regBackGround">#efeff4</color>
+    <color name="grayline">#ffb1b6bb</color>
+    <color name="LKblue">#ff00a8ea</color>
+    <color name="content_title">#ff3f4245</color>
+    <color name="regBlue">#ff005a7e</color>
+    <color name="tab_bg_color">#666C72</color>
+    <color name="color_line">#bdbdbd</color>
+    <color name="line_color">#bdbdbd</color>
+    <color name="btn_press_color_gray">#e0e0e0</color>
+    <color name="tab_text_color">#56abe4</color>
+    <color name="tab_text_gray">#a9b7b7</color>
+    <color name="btn_blue_normal">#56abe4</color>
+    <color name="btn_blue_press">#4182AD</color>
+    <color name="background_photo">#eeeeee</color>
+    <color name="popup_right_bg">#ddd</color>
+    <color name="div_gray">#ccc</color>
+    <color name="licai_shouyi">#047c94</color>
+    <color name="shuhui">#00a0e9</color>
+    <color name="tonggao_color">#ff9400</color>
+
+    
+    
+    <color name="viewfinder_frame">#ff88ae00</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="TextColorWhite">#FFFFFFFF</color>
+    <color name="TextColorGray">#909090</color>
+    <color name="TextColorBlack">#454545</color>
+    <color name="TextColorRed">#ff3b2f</color>
+    <color name="TextColorBlue">#157efb</color>
+    <color name="main_bg">#dedede</color>
+    <color name="TitleColorBlack">#333333</color>
+    <color name="general_bg">#f8f9fa</color>
+    <color name="home_bottom_bg">#eeeeee</color>
+    <color name="edit_bg">#efefef</color>
+    <color name="dialog_bg">#B0FFFFFF</color>
+    <color name="default_img_bg">#e0e0e0</color>
+    <color name="home_bottom_sel">#fff0f0f0</color>
+    <color name="home_bottom">#FCFCFC</color>
+    <color name="color_title_bg">#ff567fbc</color>
+    <color name="airplane_white">#ffffffff</color>
+    <color name="ddd1">#aaaaaa</color>
+    <color name="ddd2">#f2f2f2</color>
+    
+    <!-- 夺宝时间 -->
+    <color name="indiana_time">#b21818</color>
+    <!-- 添加地址 -->
+    <color name="add_address_blue">#37b4ee</color>
+    <!-- 充值红色 -->
+    <color name="topup_red">#e46161</color>
+    <!-- 充值蓝色 -->
+    <color name="topup_blue">#00a0e9</color>
+    <!-- 签到 -->
+    <color name="signIn_red">#c22727</color>
+    <!-- 签到灰色 -->
+    <color name="signIn_gray">#686767</color>
+    <!-- 中奖记录num -->
+    <color name="winner_record">#acacac</color>
+    <!-- 奖品黄 -->
+    <color name="winner_goods_yellow">#ff9d01</color>
+    <!-- 奖品灰 -->
+    <color name="winner_goods_gary">#bfbfbf</color>
+    <!-- 首页灰 -->
+    <color name="main_menu_gary">#4e4e4e</color>
+</resources>

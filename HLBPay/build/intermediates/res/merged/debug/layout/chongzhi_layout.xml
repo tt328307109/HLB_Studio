@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_ChongZhi"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <!--
+         <Spinner
+        android:id="@+id/sp_cz_xiala"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="@drawable/xiala_long" />    -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/biankuang_shuhui_01" >
+
+        <TextView
+            android:id="@+id/tv_cz_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="充值金额"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/ed_cz_account"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/tv_cz_account"
+            android:background="@null"
+            android:hint="输入金额"
+            android:numeric="decimal"
+            android:singleLine="true"
+            android:textSize="16dp" />
+
+        <!--
+             <Button
+            android:id="@+id/btn_cz_all"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@null"
+            android:text="全部充值"
+            android:textColor="@color/shuhui"
+            android:textSize="14sp" />
+        -->
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_cz"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/selector_next_normal"
+        android:text="充值"
+        android:textColor="@color/white" />
+
+</LinearLayout>

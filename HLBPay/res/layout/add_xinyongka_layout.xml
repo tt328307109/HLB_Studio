@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_add_xinyongka"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/white"
+                android:orientation="vertical" >
+
+                <RelativeLayout style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_add_xyk_name"
+                        style="@style/text_xyk_add"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:text="姓名" />
+
+                    <EditText
+                        android:id="@+id/ed_add_xyk_Name"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_add_xyk_name"
+                        android:background="@null"
+                        android:hint="请输入开户名"
+                        android:maxLength="7" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_add_xyk_banCardNum"
+                        style="@style/text_xyk_add"
+                        android:text="卡号" />
+
+                    <com.lk.qf.pay.wedget.view.MyXEdittextView
+                        android:id="@+id/ed_add_xyk_bankCardNum"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_add_xyk_banCardNum"
+                        android:hint="请输入卡号"
+                        android:inputType="number" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_addxyk_cardNum2"
+                        style="@style/text_xyk_add"
+                        android:text="确认卡号" />
+
+                    <com.lk.qf.pay.wedget.view.MyXEdittextView
+                        android:id="@+id/ed_add_xyk_bankCardNum2"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_addxyk_cardNum2"
+                        android:background="@null"
+                        android:hint="请确认卡号"
+                        android:inputType="number" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout
+                    android:id="@+id/rl_add_xyk_bankName"
+                    style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_add_xyk_bank"
+                        style="@style/text_xyk_add"
+                        android:text="银行" />
+
+                    <TextView
+                        android:id="@+id/tv_add_xyk_bankName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_toRightOf="@id/tv_add_xyk_bank"
+                        android:gravity="center"
+                        android:hint="请选择开户银行"
+                        android:text=""
+                        android:textColor="@color/gray"
+                        android:textColorHint="@color/lightgray"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="20dp"
+                        android:background="@drawable/jiantou_sy" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout
+                    android:id="@+id/rl_add_xyk_select_zdDay"
+                    style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_add_xyk_zhangdan"
+                        style="@style/text_xyk_add"
+                        android:text="账单日" />
+
+                    <TextView
+                        android:id="@+id/tv_add_xyk_zhangdanDate"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_toRightOf="@id/tv_add_xyk_zhangdan"
+                        android:gravity="center_horizontal"
+                        android:hint="选择账单日"
+                        android:textColor="@color/gray"
+                        android:textColorHint="@color/lightgray"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="20dp"
+                        android:background="@drawable/jiantou_sy" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout
+                    android:id="@+id/rl_add_xyk_select_hhDay"
+                    style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_add_xyk_hkq"
+                        style="@style/text_xyk_add"
+                        android:text="还款期" />
+
+                    <TextView
+                        android:id="@+id/tv_add_xyk_huankuanDay"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_toRightOf="@id/tv_add_xyk_hkq"
+                        android:gravity="center_horizontal"
+                        android:hint="选择还款期"
+                        android:textColor="@color/gray"
+                        android:textColorHint="@color/lightgray"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="20dp"
+                        android:background="@drawable/jiantou_sy" />
+                </RelativeLayout>
+
+                <View
+                    style="@style/common_line_horizontal_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginLeft="10dp" />
+
+                <RelativeLayout style="@style/add_creditcard_rl" >
+
+                    <TextView
+                        android:id="@+id/tv_add_xyk_edu"
+                        style="@style/text_xyk_add"
+                        android:text="信用额度" />
+
+                    <EditText
+                        android:id="@+id/ed_add_xyk_bankEdu"
+                        style="@style/edit_xyk"
+                        android:layout_toRightOf="@id/tv_add_xyk_edu"
+                        android:hint="请输入信用卡额度"
+                        android:maxLength="7"
+                        android:numeric="integer" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_add_xinyongka_tijiao"
+                style="@style/btntext_posloan"
+                android:text="提交" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

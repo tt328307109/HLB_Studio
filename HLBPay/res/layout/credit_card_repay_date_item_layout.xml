@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/credit_repay_mx_qs"
+        android:padding="8dp" >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" >
+
+            <TextView
+                android:id="@+id/tv_creditCard_repayDate1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="期数"
+                android:textColor="@color/white"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_creditCard_repayDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@id/tv_creditCard_repayDate1"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/tv_creditCard_repayDate1"
+                android:text="一一"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_creditCard_repaydate_tosee"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@color/white"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="查看详情"
+            android:textColor="@color/credit_repay_mx_qs"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <RelativeLayout style="@style/creditcard_repaylist_rl" >
+
+            <TextView
+                android:id="@+id/tv_creditCard_repaydateAcc"
+                style="@style/tv_add_creditcard_repaylist_title"
+                android:background="@color/credit_repay_mx_bg"
+                android:text="还款金额" />
+
+            <TextView
+                android:id="@+id/tv_creditCard_repaydateAccount"
+                style="@style/tv_add_creditcard_repaylist_title"
+                android:layout_below="@id/tv_creditCard_repaydateAcc"
+                android:layout_marginTop="10dp"
+                android:text="一一" />
+
+            <View
+                style="@style/common_line_vertical_style"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_creditCard_repaydateAccount"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@id/tv_creditCard_repaydateAcc" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            style="@style/creditcard_repaylist_rl"
+            android:layout_weight="1.5" >
+
+            <TextView
+                android:id="@+id/tv_creditCard_repaydatepoundage"
+                style="@style/tv_add_creditcard_repaylist_title"
+                android:background="@color/credit_repay_mx_bg"
+                android:text="手续费" />
+
+            <TextView
+                android:id="@+id/tv_creditCard_repaydatePoundage"
+                style="@style/tv_add_creditcard_repaylist_title"
+                android:layout_below="@id/tv_creditCard_repaydatepoundage"
+                android:layout_marginTop="10dp"
+                android:text="一一"
+                android:textColor="@color/credit_repay_mx_tv" />
+
+            <View
+                style="@style/common_line_vertical_style"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_creditCard_repaydatePoundage"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@id/tv_creditCard_repaydatepoundage" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            style="@style/creditcard_repaylist_rl"
+            android:layout_weight="1.5" >
+
+            <TextView
+                android:id="@+id/tv_creditCard_repaydatetype"
+                style="@style/tv_add_creditcard_repaylist_title"
+                android:background="@color/credit_repay_mx_bg"
+                android:text="还款状态" />
+
+            <TextView
+                android:id="@+id/tv_creditCard_repaydateType"
+                style="@style/tv_add_creditcard_repaylist_title"
+                android:layout_below="@id/tv_creditCard_repaydatetype"
+                android:layout_marginTop="10dp"
+                android:text="一一"
+                android:textColor="@color/credit_repay_mx_tv" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

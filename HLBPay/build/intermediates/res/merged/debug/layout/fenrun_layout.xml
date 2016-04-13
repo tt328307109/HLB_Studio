@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_photo"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_fenrun"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <Spinner
+        android:id="@+id/sp_fenrun"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/xiala_long"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:prompt="@string/fenrunType" />
+
+    <!--
+    <RadioGroup
+        android:id="@+id/rg_fenrun"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/biankuang_dailixinxi_1"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rb_fenrun_1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:checked="true"
+            android:text="分润明细"
+            android:textColor="@color/zicolor" />
+
+        <RadioButton
+            android:id="@+id/rb_fenrun_2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="下级分润"
+            android:textColor="@color/zicolor" />
+    </RadioGroup>
+    -->
+
+
+    <!--
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" >
+
+        <EditText
+            android:id="@+id/ed_fenrun_startTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/biankkuang_fenrunguanli_shijian"
+            android:hint="开始时间(格式:20151022)"
+            android:paddingLeft="10dp"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/ed_fenrun_endTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ed_fenrun_startTime"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/biankkuang_fenrunguanli_shijian"
+            android:hint="结束时间(格式:20151022)"
+            android:paddingLeft="10dp"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btn_fenrun_query"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/selector_next_normal"
+            android:text="搜索"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </RelativeLayout>
+    -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/biankuang_fenrunchaxun_05"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                style="@style/my_textview"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:text="交易汇总金额" />
+
+            <TextView
+                android:id="@+id/tv_fenrun_huizongAccount"
+                style="@style/my_textview"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:text="一  一" />
+        </RelativeLayout>
+
+        <View
+            style="@style/common_line_horizontal_style"
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                style="@style/my_textview"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:text="分润总额" />
+
+            <TextView
+                android:id="@+id/tv_fenrun_allAccount"
+                style="@style/my_textview"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:text="一  一" />
+        </RelativeLayout>
+
+        <View
+            style="@style/common_line_horizontal_style"
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp" />
+    </LinearLayout>
+
+    <!--
+         <Button
+        android:id="@+id/btn_fenrun_mx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/selector_next_normal"
+        android:text="分润明细"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+    -->
+
+</LinearLayout>

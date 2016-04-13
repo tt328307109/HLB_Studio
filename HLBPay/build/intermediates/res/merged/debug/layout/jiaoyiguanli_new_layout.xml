@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_jiaoyiguanli"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/rl_jiaoyi_mpos"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/click_selector" >
+
+            <TextView
+                style="@style/text_jygl_title"
+                android:drawableTop="@drawable/jiaoyi_mpos_selector"
+                android:text="手刷交易" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_jiaoyi_weixin"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/click_selector" >
+
+            <TextView
+                style="@style/text_jygl_title"
+                android:drawableTop="@drawable/jiaoyi_weixin_selector"
+                android:text="微信交易" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_jiaoyi_zhifubao"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/click_selector" >
+
+            <TextView
+                style="@style/text_jygl_title"
+                android:drawableTop="@drawable/jiaoyi_zhifubao_selector"
+                android:text="支付宝交易" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/rl_jiaoyi_baidu"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/click_selector" >
+
+            <TextView
+                style="@style/text_jygl_title"
+                android:drawableTop="@drawable/jiaoyi_baidu_selector"
+                android:text="百度钱包交易" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_jiaoyi_yifubao"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/click_selector" >
+
+            <TextView
+                style="@style/text_jygl_title"
+                android:drawableTop="@drawable/jiaoyi_yifubao_selector"
+                android:text="易付宝交易" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_jiaoyi_pos"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@drawable/click_selector" >
+
+            <TextView
+                style="@style/text_jygl_title"
+                android:drawableTop="@drawable/jiaoyi_pos_selector"
+                android:text="pos交易" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        style="@style/TitleStyle"
+        android:layout_width="match_parent" >
+
+        <TextView
+            style="@style/TitleMiddleTextStyle"
+            android:text="设备列表" />
+
+        <RelativeLayout
+            android:id="@+id/layout_search"
+            style="@style/TitleRightLayoutStyle"
+            android:layout_width="160dp"
+            android:onClick="search" >
+
+            <TextView
+                android:id="@+id/text_search"
+                style="@style/TitleRightButtonStyle"
+                android:text="重新搜索" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/v50_yyy"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/title1Layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:gravity="center_horizontal"
+            android:padding="2dp" >
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                android:layout_width="25dp"
+                android:layout_height="25dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/deviceListView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:cacheColorHint="#00000000"
+                android:listSelector="#00000000"
+                android:paddingTop="5dp"
+                android:visibility="gone" >
+            </ListView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

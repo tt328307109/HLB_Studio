@@ -1,0 +1,1471 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:2:1-764:12
+	package
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:3:5-29
+	android:versionName
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:5:5-32
+		INJECTED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml
+		INJECTED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:4:5-29
+		INJECTED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml
+		INJECTED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:7:5-9:41
+MERGED from [HLB_Studio:library:unspecified] F:\workspace\HLB_Studio\HLBPay\build\intermediates\exploded-aar\HLB_Studio\library\unspecified\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:8:9-35
+uses-feature#android.hardware.nfc
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:12:9-44
+application
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:15:5-712:19
+MERGED from [HLB_Studio:library:unspecified] F:\workspace\HLB_Studio\HLBPay\build\intermediates\exploded-aar\HLB_Studio\library\unspecified\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:18:9-42
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:16:9-57
+meta-data#UMENG_APPKEY
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:21:9-23:56
+	android:value
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:23:13-53
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:22:13-40
+service#com.umeng.update.net.DownloadingService
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:25:9-28:19
+	android:process
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:27:13-50
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:26:13-67
+activity#com.umeng.update.UpdateDialogActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:30:9-33:20
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:31:13-65
+activity#com.wepayplugin.nfc.ui.PayStartActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:55:9-59:64
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:58:13-49
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:57:13-74
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:59:13-61
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:56:13-67
+activity#com.wepayplugin.nfc.ui.SwiperCardActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:60:9-63:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:63:13-49
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:62:13-74
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:61:13-69
+activity#com.wepayplugin.nfc.ui.PayResultActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:64:9-67:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:67:13-49
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:66:13-74
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:65:13-68
+activity#com.lk.qf.pay.jhl.DeviceListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:68:9-71:59
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:70:13-63
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:69:13-64
+activity#com.lk.qf.pay.activity.SplashActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:72:9-82:20
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:74:13-45
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:76:13-50
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:73:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:77:13-81:29
+action#android.intent.action.MAIN
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:78:17-69
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:78:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:80:17-77
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:80:27-74
+activity#com.lk.qf.pay.aanewactivity.FirstActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:83:9-88:20
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:85:13-45
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:87:13-50
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:84:13-69
+activity#com.lk.qf.pay.activity.LoginActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:92:13-49
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:90:13-64
+activity#com.lk.qf.pay.activity.MenuActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:94:13-63
+activity#com.lk.qf.pay.activity.MemberCenterActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:96:9-98:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:97:13-71
+activity#com.lk.qf.pay.activity.MoreActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:99:9-109:20
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:100:13-63
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:102:13-108:29
+action#android.intent.action.SEND
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:103:17-69
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:103:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:105:17-76
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:105:27-73
+data
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:107:17-52
+	android:mimeType
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:107:23-49
+activity#com.lk.qf.pay.nfc.NfcCashinRateActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:110:9-112:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:112:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:111:13-67
+activity#com.lk.qf.pay.nfc.NfcPayActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:113:9-115:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:114:13-60
+activity#com.lk.qf.pay.jhl.CheckActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:116:9-118:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:118:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:117:13-59
+activity#com.lk.qf.pay.activity.HelpActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:119:9-121:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:121:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:120:13-63
+activity#com.lk.qf.pay.activity.HelpDetailActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:122:9-124:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:124:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:123:13-69
+activity#com.lk.qf.pay.activity.AboutActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:125:9-127:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:127:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:126:13-64
+activity#com.lk.qf.pay.activity.ProtocolActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:128:9-130:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:130:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:129:13-67
+activity#com.lk.qf.pay.activity.CashInActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:131:9-133:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:133:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:132:13-65
+activity#com.lk.qf.pay.activity.MobileVerifyActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:134:9-136:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:136:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:135:13-71
+activity#com.lk.qf.pay.activity.RegisterActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:137:9-139:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:139:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:138:13-67
+activity#com.lk.qf.pay.activity.VersionInfoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:140:9-142:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:142:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:141:13-70
+activity#com.lk.qf.pay.activity.MainTabActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:143:9-145:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:145:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:144:13-66
+activity#com.lk.qf.pay.activity.PwdManageActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:146:9-148:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:148:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:147:13-68
+activity#com.lk.qf.pay.activity.AccountInfoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:149:9-152:20
+	android:label
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:151:13-64
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:150:13-70
+activity#com.lk.qf.pay.activity.PwdReviseActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:153:9-155:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:155:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:154:13-68
+activity#com.lk.qf.pay.activity.FindPwdActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:156:9-158:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:158:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:157:13-66
+activity#com.lk.qf.pay.activity.swing.BluetoothBindActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:159:9-161:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:161:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:160:13-78
+activity#com.lk.qf.pay.activity.swing.LDWriteSignActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:162:9-164:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:164:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:163:13-76
+activity#com.lk.qf.pay.activity.NoticeActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:165:9-168:20
+	android:label
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:167:13-58
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:166:13-65
+activity#com.lk.qf.pay.activity.swing.SwingCardThroughAudioActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:169:9-171:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:171:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:170:13-86
+activity#com.lk.qf.pay.activity.swing.SwingCardByAudioActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:172:9-174:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:174:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:173:13-81
+activity#com.lk.qf.pay.activity.swing.SwingHXCardActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:175:9-177:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:177:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:176:13-76
+activity#com.lk.qf.pay.jhl.PayByBuleCardActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:178:9-180:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:180:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:179:13-67
+activity#com.lk.qf.pay.activity.UploadSignActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:181:9-183:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:183:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:182:13-69
+activity#com.lk.qf.pay.activity.swing.BindAudioDeviceActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:184:9-186:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:186:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:185:13-80
+activity#com.lk.qf.pay.activity.BankbranchActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:187:9-189:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:189:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:188:13-69
+activity#com.lk.qf.pay.activity.AddBankCardActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:190:9-192:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:192:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:191:13-70
+activity#com.lk.qf.pay.activity.TradeListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:193:9-196:20
+	android:label
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:195:13-62
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:194:13-68
+activity#com.lk.qf.pay.activity.swing.PayByCardConfirmActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:197:9-199:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:199:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:198:13-81
+activity#com.lk.qf.pay.activity.RealNameAuthenticationActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:200:9-204:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:204:13-49
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:203:13-43
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:202:13-133
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:201:13-81
+activity#com.lk.qf.pay.activity.swing.SignaturePadActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:205:9-208:53
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:208:13-50
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:207:13-44
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:206:13-77
+activity#com.lk.qf.pay.activity.swing.CardBalanceActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:209:9-211:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:211:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:210:13-76
+activity#com.lk.qf.pay.activity.swing.CardBalanceConfirmActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:212:9-214:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:214:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:213:13-83
+activity#com.lk.qf.pay.activity.CashInConfirmActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:215:9-217:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:217:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:216:13-72
+activity#com.lk.qf.pay.activity.SalesSlipActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:218:9-77
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:218:19-74
+activity#com.lk.qf.pay.activity.ShowMsgActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:219:9-221:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:221:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:220:13-66
+activity#com.lk.qf.pay.activity.NoticeDetailActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:222:9-224:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:224:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:223:13-71
+activity#com.lk.qf.pay.activity.EquListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:225:9-227:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:227:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:226:13-66
+activity#com.lk.qf.pay.activity.EquAddActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:228:9-230:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:230:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:229:13-65
+activity#com.lk.qf.pay.activity.EquAddConfirmActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:231:9-233:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:233:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:232:13-72
+activity#com.lk.qf.pay.zxb.ZXBDeviceListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:234:9-237:59
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:236:13-49
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:237:13-56
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:235:13-67
+activity#com.lk.qf.pay.zxb.ZXBBTDeviceActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:238:9-240:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:240:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:239:13-65
+activity#com.lk.qf.pay.aanewactivity.SetRateDaiLiActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:241:9-243:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:243:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:242:13-76
+activity#com.lk.qf.pay.aanewactivity.AddBasicInformationActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:244:9-246:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:246:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:245:13-83
+activity#com.lk.qf.pay.aanewactivity.PoPhotoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:247:9-250:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:250:13-49
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:249:13-84
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:248:13-71
+activity#com.lk.qf.pay.aanewactivity.AddDaiLiMerchantActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:251:9-253:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:253:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:252:13-80
+activity#com.lk.qf.pay.aanewactivity.JieSuanActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:254:9-256:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:256:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:255:13-71
+activity#com.lk.qf.pay.aanewactivity.SetRateMerActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:257:9-259:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:259:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:258:13-74
+activity#com.lk.qf.pay.aanewactivity.ShiMingChaXunActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:260:9-262:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:262:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:261:13-77
+activity#com.lk.qf.pay.aanewactivity.KeFuActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:263:9-265:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:265:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:264:13-68
+activity#com.lk.qf.pay.aanewactivity.TiXianListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:267:9-270:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:270:13-49
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:269:13-51
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:268:13-74
+activity#com.lk.qf.pay.aanewactivity.FenRunActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:271:9-273:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:273:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:272:13-70
+activity#com.lk.qf.pay.aanewactivity.SuperTransferAccountActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:274:9-276:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:276:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:275:13-84
+activity#com.lk.qf.pay.aanewactivity.DiaodanActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:277:9-279:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:279:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:278:13-71
+activity#com.lk.qf.pay.aanewactivity.LiCaiActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:280:9-282:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:282:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:281:13-69
+activity#com.lk.qf.pay.aanewactivity.ShuhuiActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:283:9-285:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:285:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:284:13-70
+activity#com.lk.qf.pay.aanewactivity.ConvenienceServiceActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:286:9-288:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:288:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:287:13-82
+activity#com.lk.qf.pay.aanewactivity.DingDanListInfoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:289:9-292:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:292:13-49
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:291:13-51
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:290:13-79
+activity#com.lk.qf.pay.aanewactivity.JiaoYiGuanLiActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:293:9-295:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:295:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:294:13-76
+activity#com.lk.qf.pay.aanewactivity.TopUpActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:296:9-298:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:298:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:297:13-69
+activity#com.lk.qf.pay.aanewactivity.LicaiListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:299:9-301:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:301:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:300:13-73
+activity#com.lk.qf.pay.aanewactivity.EarningsListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:302:9-304:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:304:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:303:13-76
+activity#com.lk.qf.pay.aanewactivity.GuideActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:305:9-308:48
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:307:13-49
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:308:13-45
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:306:13-69
+activity#com.lk.qf.pay.aanewactivity.XinYongkaActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:309:9-311:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:311:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:310:13-73
+activity#com.lk.qf.pay.aanewactivity.AddBasicDailiActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:312:9-314:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:314:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:313:13-77
+activity#com.lk.qf.pay.aanewactivity.UserInformationActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:315:9-317:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:317:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:316:13-79
+activity#com.lk.qf.pay.aanewactivity.TixianActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:318:9-320:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:320:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:319:13-70
+activity#com.lk.qf.pay.v50.FindBluetoothActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:321:9-324:59
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:323:13-49
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:324:13-56
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:322:13-67
+activity#com.lk.qf.pay.v50.PayByV50CardActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:325:9-328:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:328:13-49
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:327:13-43
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:326:13-66
+activity#com.lk.qf.pay.v50.MyV50MainActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:329:9-331:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:331:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:330:13-63
+activity#com.lk.qf.pay.v50.V50CashInConfirmActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:332:9-334:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:334:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:333:13-70
+activity#com.lk.qf.pay.aanewactivity.MyWebViewActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:335:9-337:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:337:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:336:13-73
+activity#com.lk.qf.pay.aanewactivity.TixianSelectActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:338:9-340:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:340:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:339:13-76
+activity#com.lk.qf.pay.aanewactivity.TixianNewActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:341:9-343:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:343:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:342:13-73
+activity#com.lk.qf.pay.aanewactivity.JiaoYiGuanLiNewActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:344:9-346:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:346:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:345:13-79
+activity#com.lk.qf.pay.aanewactivity.XinyongkaGuanliActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:347:9-349:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:349:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:348:13-79
+activity#com.lk.qf.pay.aanewactivity.AddXinyongkaActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:350:9-352:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:352:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:351:13-76
+activity#com.lk.qf.pay.aanewactivity.XinyongkaInfoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:353:9-355:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:355:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:354:13-77
+activity#com.lk.qf.pay.aanewactivity.NumberSelectorActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:356:9-359:59
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:358:13-49
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:359:13-56
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:357:13-78
+activity#com.lk.qf.pay.aanewactivity.XinyongkaHuanKuanActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:360:9-362:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:362:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:361:13-81
+activity#com.lk.qf.pay.aanewactivity.ModifyXinyongkaActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:363:9-365:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:365:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:364:13-79
+activity#com.lk.qf.pay.aanewactivity.CashInConfimSuperActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:366:9-368:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:368:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:367:13-81
+activity#com.lk.qf.pay.aanewactivity.InstalledFenRunActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:369:9-371:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:371:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:370:13-79
+activity#com.lk.qf.pay.aanewactivity.InstalledFenRunListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:372:9-374:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:374:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:373:13-83
+activity#com.lk.qf.pay.aanewactivity.IncomeGuanliActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:375:9-377:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:377:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:376:13-76
+activity#com.lk.qf.pay.aanewactivity.ShouyiListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:378:9-380:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:380:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:379:13-74
+activity#com.lk.qf.pay.aanewactivity.ShouyiFGSListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:381:9-383:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:383:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:382:13-77
+activity#com.lk.qf.pay.aanewactivity.SerachTotalIncomeActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:384:9-386:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:386:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:385:13-81
+activity#com.lk.qf.pay.aanewactivity.UserManagementActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:387:9-389:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:389:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:388:13-78
+activity#com.lk.qf.pay.aanewactivity.UserManagementFGSActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:390:9-392:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:392:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:391:13-81
+activity#com.lk.qf.pay.aanewactivity.UpgradeUserActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:393:9-395:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:395:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:394:13-75
+activity#com.lk.qf.pay.aanewactivity.RedemptionDepositActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:396:9-398:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:398:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:397:13-81
+activity#com.lk.qf.pay.aanewactivity.TransferActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:399:9-401:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:401:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:400:13-72
+activity#com.lk.qf.pay.aanewactivity.TransferListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:402:9-404:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:404:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:403:13-76
+activity#com.lk.qf.pay.aanewactivity.AddCommonlyUsedUserActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:405:9-407:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:407:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:406:13-83
+activity#com.lk.qf.pay.aanewactivity.CreatePayCodeActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:408:9-410:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:410:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:409:13-77
+activity#com.lk.qf.pay.aanewactivity.CreatePaytCodeAccountActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:411:9-413:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:413:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:412:13-85
+activity#com.lk.qf.pay.aanewactivity.FuzzyQueryActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:414:9-416:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:416:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:415:13-74
+activity#com.lk.qf.pay.aanewactivity.licai.LicaiNewActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:417:9-420:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:420:13-49
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:419:13-44
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:418:13-78
+activity#com.lk.qf.pay.aanewactivity.licai.AddLicaiGoodsActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:421:9-423:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:423:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:422:13-83
+activity#com.lk.qf.pay.aanewactivity.licai.LicaiNewRecordListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:424:9-426:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:426:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:425:13-88
+activity#com.lk.qf.pay.aanewactivity.licai.LiCaiGoodsInfoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:427:9-429:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:429:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:428:13-84
+activity#com.mining.app.zxing.MipcaActivityCapture
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:430:9-435:63
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:434:13-49
+	android:label
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:433:13-45
+	android:windowSoftInputMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:435:13-60
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:432:13-63
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:431:13-69
+activity#com.lk.qf.pay.posloan.PosLoanActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:436:9-439:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:439:13-49
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:438:13-44
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:437:13-65
+activity#com.lk.qf.pay.posloan.PosloanBasicActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:440:9-443:57
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:442:13-49
+	android:windowSoftInputMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:443:13-54
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:441:13-70
+activity#com.lk.qf.pay.posloan.PosLoanFriendsInfoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:444:9-446:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:446:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:445:13-76
+activity#com.lk.qf.pay.posloan.PosLoanBorrowingActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:447:9-449:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:449:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:448:13-74
+activity#com.lk.qf.pay.posloan.PosloanConfirmActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:450:9-452:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:452:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:451:13-72
+activity#com.lk.qf.pay.posloan.PosloanIntroduceActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:453:9-455:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:455:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:454:13-74
+activity#com.lk.qf.pay.posloan.PosloanListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:456:9-458:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:458:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:457:13-69
+activity#com.lk.qf.pay.posloan.PosloanSignatureActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:459:9-462:53
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:462:13-50
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:461:13-44
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:460:13-74
+activity#com.lk.qf.pay.posloan.PosLoanPhotoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:463:9-466:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:466:13-49
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:465:13-84
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:464:13-70
+activity#com.lk.qf.pay.posloan.PolyLoansTabHostActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:467:9-470:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:470:13-49
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:469:13-44
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:468:13-74
+activity#com.lk.qf.pay.posloan.LoanHuanKuanListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:471:9-473:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:473:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:472:13-74
+activity#com.lk.qf.pay.posloan.ApplyPolyLoanActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:474:9-476:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:476:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:475:13-71
+activity#com.lk.qf.pay.posloan.ApplyPolyLoanByLicaiActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:477:9-479:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:479:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:478:13-78
+activity#com.lk.qf.pay.posloan.PosloanQueryProgressActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:480:9-482:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:482:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:481:13-78
+activity#com.lk.qf.pay.aanewactivity.shoukuan.CollectionCodeActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:483:9-485:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:485:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:484:13-87
+activity#com.lk.qf.pay.aanewactivity.shoukuan.TradeQueryListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:486:9-488:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:488:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:487:13-87
+activity#com.lk.qf.pay.intelligence.pos.MagneticStripeActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:489:9-491:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:491:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:490:13-81
+activity#com.lk.qf.pay.indiana.activity.IndianaMainActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:492:9-496:55
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:494:13-49
+	android:windowSoftInputMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:496:13-52
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:495:13-45
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:493:13-78
+activity#com.lk.qf.pay.indiana.activity.IndianaGoodsInfoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:497:9-499:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:499:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:498:13-83
+activity#com.lk.qf.pay.indiana.activity.IndianaBuyCarActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:500:9-503:55
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:502:13-49
+	android:windowSoftInputMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:503:13-52
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:501:13-80
+activity#com.lk.qf.pay.indiana.activity.IndianaIssueOpenActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:504:9-506:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:506:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:505:13-83
+activity#com.lk.qf.pay.indiana.activity.MyShippingAddressActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:507:9-509:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:509:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:508:13-84
+activity#com.lk.qf.pay.indiana.activity.EditAddressActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:510:9-512:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:512:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:511:13-78
+activity#com.lk.qf.pay.indiana.activity.IndianaRecordListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:513:9-515:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:515:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:514:13-84
+activity#com.lk.qf.pay.indiana.activity.TopUpActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:516:9-518:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:518:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:517:13-72
+activity#com.lk.qf.pay.indiana.activity.SignInActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:519:9-521:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:521:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:520:13-73
+activity#com.lk.qf.pay.indiana.activity.WinnerRecordActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:522:9-525:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:525:13-49
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:524:13-44
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:523:13-79
+activity#com.lk.qf.pay.indiana.activity.WinnerGoodsActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:526:9-528:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:528:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:527:13-78
+activity#com.lk.qf.pay.indiana.activity.WinnerInfoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:529:9-531:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:531:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:530:13-77
+activity#com.lk.qf.pay.indiana.activity.ShowIndianaNumActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:532:9-535:53
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:534:13-49
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:535:13-50
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:533:13-81
+activity#com.lk.qf.pay.indiana.activity.MyPwdActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:536:9-539:53
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:538:13-49
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:539:13-50
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:537:13-72
+activity#com.lk.qf.pay.indiana.activity.IndianaProtocolActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:540:9-543:53
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:542:13-49
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:543:13-50
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:541:13-82
+activity#com.lk.qf.pay.indiana.activity.CommonProblemActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:544:9-546:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:546:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:545:13-80
+activity#com.lk.qf.pay.indiana.saidan.TestPicActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:548:9-550:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:550:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:549:13-72
+activity#com.lk.qf.pay.indiana.saidan.ImageGridActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:551:9-554:20
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:553:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:552:13-74
+activity#com.lk.qf.pay.indiana.saidan.PublishedActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:555:9-560:20
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:559:13-49
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:558:13-44
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:557:13-63
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:556:13-74
+activity#com.lk.qf.pay.indiana.saidan.PhotoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:561:9-564:20
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:563:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:562:13-70
+activity#com.lk.qf.pay.indiana.saidan.SaiDanAfterActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:565:9-85
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:565:19-82
+activity#com.lk.qf.pay.indiana.saidan.EnlargePhotoActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:566:9-568:59
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:568:13-56
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:567:13-77
+activity#com.lk.qf.pay.aanewactivity.creditcard.AddCreditCardActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:571:9-573:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:573:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:572:13-88
+activity#com.lk.qf.pay.aanewactivity.creditcard.CreditCardsListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:574:9-577:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:577:13-49
+	android:launchMode
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:576:13-44
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:575:13-90
+activity#com.lk.qf.pay.aanewactivity.creditcard.RepaymentWayDetailActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:578:9-580:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:580:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:579:13-93
+activity#com.lk.qf.pay.aanewactivity.creditcard.RepaymentWayActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:581:9-583:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:583:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:582:13-87
+activity#com.lk.qf.pay.aanewactivity.creditcard.RansomActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:584:9-586:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:586:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:585:13-81
+activity#com.lk.qf.pay.aanewactivity.creditcard.ApplyRepaymentDetailActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:587:9-589:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:589:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:588:13-95
+activity#com.lk.qf.pay.aanewactivity.creditcard.CreditCardRepayListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:590:9-592:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:592:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:591:13-94
+activity#com.lk.qf.pay.aanewactivity.creditcard.CreditCardRepayDateListActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:593:9-595:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:595:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:594:13-98
+activity#com.lk.qf.pay.fragment.CashInFragmentActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:597:9-599:52
+	android:screenOrientation
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:599:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:598:13-73
+service#com.lk.qf.pay.jhl.BluetoothConnController
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:600:9-609:19
+	android:exported
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:602:13-36
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:601:13-69
+intent-filter#CONNECT_REQUEST_ACTION+DISCONNECT_REQUEST_ACTION+SEND_MSG_FROM_BT_ACTION+START_MONITOR_ACTION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:603:13-608:29
+action#SEND_MSG_FROM_BT_ACTION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:604:17-66
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:604:25-63
+action#CONNECT_REQUEST_ACTION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:605:17-65
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:605:25-62
+action#DISCONNECT_REQUEST_ACTION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:606:17-68
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:606:25-65
+action#START_MONITOR_ACTION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:607:17-63
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:607:25-60
+service#bt.fsk.BlueConnService
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:610:9-611:19
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:610:18-55
+service#cn.jpush.android.service.PushService
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:613:9-623:19
+	android:enabled
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:615:13-35
+	android:exported
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:616:13-37
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:614:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:617:13-622:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:618:17-75
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:618:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:619:17-73
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:619:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:620:17-78
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:620:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:621:17-76
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:621:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:624:9-633:19
+	android:enabled
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:626:13-35
+	android:exported
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:627:13-36
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:625:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.lk.bhb.pay
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:628:13-632:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:629:17-80
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:629:25-77
+category#com.lk.bhb.pay
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:631:17-59
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:631:27-56
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:635:9-654:20
+	android:enabled
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:637:13-35
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:636:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.lk.bhb.pay
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:638:13-642:29
+	android:priority
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:638:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:639:17-94
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:639:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:643:13-646:29
+action#android.intent.action.USER_PRESENT
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:644:17-77
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:644:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:645:17-79
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:645:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:648:13-653:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:649:17-78
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:649:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:650:17-80
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:650:25-77
+activity#cn.jpush.android.ui.PushActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:656:9-666:20
+	android:exported
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:659:13-37
+	android:configChanges
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:658:13-63
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:657:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.lk.bhb.pay
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:660:13-665:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:661:17-75
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:661:25-72
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:668:9-672:20
+	android:exported
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:670:13-37
+	android:theme
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:671:13-49
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:669:13-62
+service#cn.jpush.android.service.DownloadService
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:674:9-678:19
+	android:enabled
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:676:13-35
+	android:exported
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:677:13-37
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:675:13-68
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:680:9-75
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:680:19-72
+receiver#com.lk.qf.pay.MyReceiver
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:682:9-703:20
+	android:enabled
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:684:13-35
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:683:13-52
+intent-filter#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.jpush.android.intent.UNREGISTRATION+com.lk.bhb.pay
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:685:13-702:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:688:17-79
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:688:25-76
+action#cn.jpush.android.intent.UNREGISTRATION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:689:17-81
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:689:25-78
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:691:17-83
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:691:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:693:17-88
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:693:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:695:17-86
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:695:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:697:17-91
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:697:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:699:17-77
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:699:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:705:9-707:49
+	android:value
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:707:13-46
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:706:13-41
+meta-data#JPUSH_APPKEY
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:709:9-711:56
+	android:value
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:711:13-53
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:710:13-40
+uses-permission#android.permission.VIBRATE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:714:5-66
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:714:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:715:5-79
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:715:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:716:5-76
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:716:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:717:5-75
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:717:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:718:5-81
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:718:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:719:5-79
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:719:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:720:5-81
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:720:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:721:5-80
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:721:22-77
+uses-permission#android.permission.INTERNET
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:722:5-67
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:722:22-64
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:723:5-68
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:723:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:724:5-69
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:724:22-66
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:725:5-81
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:725:22-78
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:726:5-82
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:726:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:727:5-88
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:727:22-85
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:728:5-78
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:728:22-75
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:729:5-75
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:729:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:730:5-67
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:730:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:731:5-84
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:731:22-81
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:732:5-79
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:732:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:733:5-76
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:733:22-73
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:734:5-85
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:734:22-82
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:735:5-68
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:735:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:736:5-71
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:736:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:737:5-80
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:737:22-77
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:738:5-74
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:738:22-71
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:739:5-72
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:739:22-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:742:5-73
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:742:22-70
+uses-permission#android.permission.NFC
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:744:5-62
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:744:22-59
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:745:5-79
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:745:22-76
+uses-permission#android.permission.CAMERA
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:746:5-65
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:746:22-62
+uses-feature#android.hardware.camera
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:748:5-60
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:748:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:749:5-70
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:749:19-67
+permission#com.lk.bhb.pay.permission.JPUSH_MESSAGE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:752:5-754:47
+	android:protectionLevel
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:754:9-44
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:753:9-63
+uses-permission#com.lk.bhb.pay.permission.JPUSH_MESSAGE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:757:5-79
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:757:22-76
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:758:5-79
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:758:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:759:5-68
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:759:22-65
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:760:5-80
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:760:22-77
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:761:5-89
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:761:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:762:5-79
+	android:name
+		ADDED from F:\workspace\HLB_Studio\HLBPay\AndroidManifest.xml:762:22-76

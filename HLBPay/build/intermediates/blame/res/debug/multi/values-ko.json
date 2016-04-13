@@ -1,0 +1,126 @@
+[
+    {
+        "outputFile": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 66,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 66,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 68,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 68,
+                        "endOffset": 252
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 66,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 66,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 68,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 68,
+                        "endOffset": 252
+                    }
+                }
+            }
+        ]
+    }
+]

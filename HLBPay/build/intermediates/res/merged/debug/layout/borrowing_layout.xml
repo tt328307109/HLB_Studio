@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_posLoan_borrowing"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_borrowing_1"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                style="@style/text_posloan_title"
+                android:text="贷款金额" />
+
+            <EditText
+                android:id="@+id/ed_posLoan_account"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@null"
+                android:gravity="center"
+                android:hint="请输入借款金额"
+                android:singleLine="true"
+                android:textColor="@color/gray"
+                android:textColorHint="@color/lightgray"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                style="@style/text_posloan_title"
+                android:text="期限" />
+
+            <TextView
+                android:id="@+id/tv_posLoan_month"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@null"
+                android:gravity="center"
+                android:hint="请选择贷款期限"
+                android:text=""
+                android:textColor="@color/gray"
+                android:textColorHint="@color/lightgray"
+                android:textSize="16sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_borrowing_mess"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/text_posloan_title"
+            android:layout_marginTop="10dp"
+            android:text="贷款理由:" />
+
+        <EditText
+            android:id="@+id/ed_posloan_message"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="请输入100字以内"
+            android:maxLength="100"
+            android:textColorHint="@color/lightgray"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_borrowing_confirm"
+        style="@style/btntext_posloan"
+        android:text="确定" />
+
+</LinearLayout>

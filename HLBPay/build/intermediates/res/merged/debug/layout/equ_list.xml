@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_bg"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <com.lk.qf.pay.wedget.CommonTitleBar
+            android:id="@+id/titlebar_equlist"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/titleview_height"
+            android:orientation="vertical" >
+        </com.lk.qf.pay.wedget.CommonTitleBar>
+
+        <Button
+            android:id="@+id/btn_equ_list_yajin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="10dp"
+            android:background="@null"
+            android:text="缴纳押金"
+            android:textSize="14sp"
+            android:textColor="@color/white" />
+    </FrameLayout>
+
+    <ListView
+        android:id="@+id/equ_list_lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:dividerHeight="1dp" >
+    </ListView>
+
+    <Button
+        android:id="@+id/equ_list_add_btn"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/reg_btn_next_height"
+        android:layout_margin="15dp"
+        android:background="@drawable/login_selector"
+        android:gravity="center"
+        android:text="添加设备"
+        android:textColor="@color/white"
+        android:textSize="@dimen/medium" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp" >
+
+        <TextView
+            android:id="@+id/tv_equ_beizhu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="备注:"
+            android:textColor="@color/zicolor"
+            android:textSize="14sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_equ_beizhu"
+            android:text="商户使用非批发类刷卡达到30万,系统返还设备押金" />
+    </RelativeLayout>
+
+</LinearLayout>

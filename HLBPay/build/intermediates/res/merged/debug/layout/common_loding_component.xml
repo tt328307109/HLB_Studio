@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/panel_isloading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        
+        <ProgressBar
+            android:minWidth="80dp"
+            android:minHeight="90dp"
+            android:id="@+id/common_progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+             />
+
+        <TextView
+            android:id="@+id/common_loading_tooltip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:text="Loading_text"
+            android:textColor="#bdbdbd" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/panel_load_error"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="100dp"
+            android:src="@drawable/one_finger_click_128" />
+
+        <TextView
+            android:id="@+id/common_loading_error_msg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Aho网络错误...."
+            android:textColor="#fff69988" />
+
+        <TextView
+            android:id="@+id/common_loading_tip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center_horizontal"
+            android:text="点击屏幕重试..."
+            android:textColor="#424242" />
+    </LinearLayout>
+
+</LinearLayout>

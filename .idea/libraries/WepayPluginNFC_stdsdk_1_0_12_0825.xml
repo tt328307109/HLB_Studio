@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WepayPluginNFC_stdsdk_1.0.12_0825">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HLBPay/libs/WepayPluginNFC_stdsdk_1.0.12_0825.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

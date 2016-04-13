@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_photo"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/rl_licai_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/licai_01"
+                    android:clipToPadding="true"
+                    android:fitsSystemWindows="true"
+                    android:orientation="vertical" >
+
+                    <ImageButton
+                        android:id="@+id/licai_back"
+                        android:layout_width="80dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_centerVertical="true"
+                        android:background="@drawable/selector_reg_back" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/licai_02"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/tv_licai_1"
+                        style="@style/my_textview_licaiWhite"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="20dp"
+                        android:text="昨日收益(元)" />
+
+                    <TextView
+                        android:id="@+id/tv_licai_shouyi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:text="暂无收益"
+                        android:textColor="@color/white"
+                        android:textSize="40sp" />
+
+                    <RelativeLayout
+                        android:id="@+id/ll_licai"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/tv_licai_2"
+                            style="@style/my_textview_licaiWhite"
+                            android:text="累积收益(元)" />
+
+                        <TextView
+                            android:id="@+id/tv_licai_leijishouyi"
+                            style="@style/my_textview_licaiWhite"
+                            android:layout_marginLeft="20dp"
+                            android:layout_toRightOf="@id/tv_licai_2"
+                            android:text="一  一" />
+
+                        <ImageButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="5dp"
+                            android:layout_toRightOf="@id/tv_licai_leijishouyi"
+                            android:background="@null"
+                            android:src="@drawable/small_jiantou" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/licai_03" >
+
+                    <TextView
+                        android:id="@+id/tv_licai_3"
+                        style="@style/my_textview_licaiWhite"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="20dp"
+                        android:text="年化收益率:" />
+
+                    <TextView
+                        android:id="@+id/tv_licai_nianhua_sy"
+                        style="@style/my_textview_licaiWhite"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@id/tv_licai_3"
+                        android:text="14.6%" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/rl_licai_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/biankuang_licai" >
+
+                    <TextView
+                        android:id="@+id/tv_licai_4"
+                        style="@style/my_textview"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="20dp"
+                        android:drawablePadding="5dp"
+                        android:drawableTop="@drawable/aicon_licai_zonge"
+                        android:text="我的总额" />
+
+                    <TextView
+                        android:id="@+id/tv_licai_wode_account"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:text=""
+                        android:textColor="@color/zicolor"
+                        android:textSize="20dp" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rl_licai_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/biankuang_licai" >
+
+                    <TextView
+                        android:id="@+id/tv_licai_5"
+                        style="@style/my_textview"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="20dp"
+                        android:drawablePadding="5dp"
+                        android:drawableTop="@drawable/aicon_licai_licaijilu"
+                        android:text="理财记录" />
+
+                    <ImageButton
+                        android:id="@+id/btn_licai_wode_account"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="15dp"
+                        android:background="@drawable/jiantou_sy" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_licai_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="50dp"
+                    android:orientation="horizontal" >
+
+                    <ImageButton
+                        android:id="@+id/btn_licai_chongzhi"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/licai_chongzhi_selector"
+                        android:gravity="bottom" />
+
+                    <ImageButton
+                        android:id="@+id/btn_licai_shuhui"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/licai_shuhui_selector"
+                        android:gravity="bottom" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

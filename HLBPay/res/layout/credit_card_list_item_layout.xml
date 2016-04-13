@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:id="@+id/rl_credit_card"
+    android:background="@drawable/bg_creditcard_item" >
+
+    <ImageView
+        android:id="@+id/img_creditCard_bankIcon1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/app_logo" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/img_creditCard_bankIcon1" >
+
+        <TextView
+            android:id="@+id/tv_creditCard_bankName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="一一"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_creditCard_userName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp"
+            android:layout_toRightOf="@id/tv_creditCard_bankName"
+            android:text="一一"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_creditCard_bankCardNum1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_creditCard_bankName"
+            android:text="@string/bank_star"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tv_creditCard_bankCardNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_creditCard_bankCardNum1"
+            android:layout_below="@id/tv_creditCard_bankName"
+            android:text="一一"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tv_creditCard_bankCardType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_creditCard_bankCardNum1"
+            android:text="一一"
+            android:textColor="@color/credit_card_type"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tv_creditCard_bankCardPoundage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/tv_creditCard_bankCardType"
+            android:layout_below="@id/tv_creditCard_bankCardNum1"
+            android:text=""
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btn_see_info" >
+
+        <TextView
+             android:id="@+id/rl_creditCard_toInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/to_view_info"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

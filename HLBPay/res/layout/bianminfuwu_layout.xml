@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_bianmin"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="16dp" >
+
+        <RelativeLayout
+            android:id="@+id/rl_shouji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/btn_bm_phoneCZ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/icon_shoujichongzhi" />
+
+            <TextView
+                android:id="@+id/tv_bm_phoneCZ"
+                style="@style/my_textview"
+                android:layout_alignLeft="@id/btn_bm_phoneCZ"
+                android:layout_alignRight="@id/btn_bm_phoneCZ"
+                android:layout_below="@id/btn_bm_phoneCZ"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="手机充值"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_shenghuo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true" >
+
+            <ImageButton
+                android:id="@+id/btn_bm_lifePay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/icon_shenghuojiaofei" />
+
+            <TextView
+                android:id="@+id/tv_bm_lifePay"
+                style="@style/my_textview"
+                android:layout_alignLeft="@id/btn_bm_lifePay"
+                android:layout_alignRight="@id/btn_bm_lifePay"
+                android:layout_below="@id/btn_bm_lifePay"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="生活缴费"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_jipiao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="14dp" >
+
+            <ImageButton
+                android:id="@+id/btn_bm_airTicket"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/icon_jipiao" />
+
+            <TextView
+                android:id="@+id/tv_bm_airTicket"
+                style="@style/my_textview"
+                android:layout_alignLeft="@id/btn_bm_airTicket"
+                android:layout_alignRight="@id/btn_bm_airTicket"
+                android:layout_below="@id/btn_bm_airTicket"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="机票"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_wuliu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rl_shouji"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp" >
+
+            <ImageButton
+                android:id="@+id/btn_bm_wuliu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/icon_wuliuchaxun" />
+
+            <TextView
+                android:id="@+id/tv_bm_wuliu"
+                style="@style/my_textview"
+                android:layout_below="@id/btn_bm_wuliu"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:text="物流查询"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_zhengxin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rl_shenghuo"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp" >
+
+            <ImageButton
+                android:id="@+id/btn_bm_zhengxinchaxun"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/icon_zhengxinchaxun" />
+
+            <TextView
+                android:id="@+id/tv_bm_zhengxinchaxun"
+                style="@style/my_textview"
+                android:layout_below="@id/btn_bm_zhengxinchaxun"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:text="征信查询"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_xinyongka"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/rl_jipiao"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp" >
+
+            <ImageButton
+                android:id="@+id/btn_bm_huankuan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="4dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/icon_xinyongkahuankun" />
+
+            <TextView
+                android:id="@+id/tv_bm_huankuan"
+                style="@style/my_textview"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/btn_bm_huankuan"
+                android:layout_marginTop="10dp"
+                android:layout_centerHorizontal="true"
+                android:text="信用卡还款"
+                android:textSize="16sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

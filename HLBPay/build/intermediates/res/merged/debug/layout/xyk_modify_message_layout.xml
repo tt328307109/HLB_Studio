@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_xinyongka_modify"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+
+        <ImageView
+            android:id="@+id/img_modif_xyk_userHead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon_userhoto" />
+
+        <TextView
+            android:id="@+id/tv_modif_xyk_userName1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/img_modif_xyk_userHead"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_toRightOf="@id/img_modif_xyk_userHead"
+            android:text="张三"
+            android:textColor="@color/userName_color"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_modif_xyk_user_userPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/tv_modif_xyk_userName1"
+            android:layout_below="@id/tv_modif_xyk_userName1"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_toRightOf="@id/img_modif_xyk_userHead"
+            android:text="1234"
+            android:textColor="@color/userName_color"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_margin="10dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tv_modif_xyk_zd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:text="账单日"
+            android:textColor="@color/zicolor"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_modif_xyk_zdDay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@null"
+            android:gravity="center_horizontal"
+            android:hint="每月5日"
+            android:paddingLeft="30dp"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/jiantou_tixian" />
+    </RelativeLayout>
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_margin="10dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tv_modif_xyk_zd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:text="还款期"
+            android:textColor="@color/zicolor"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_modif_xyk_hkDay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@null"
+            android:gravity="center_horizontal"
+            android:hint="5天"
+            android:textColor="@color/zicolor"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/jiantou_tixian" />
+    </RelativeLayout>
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:id="@+id/btn_modif_xyk_queren"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/selector_next_normal"
+        android:text="确认"
+        android:textColor="@color/white" />
+
+</LinearLayout>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/img_indiana_goods_icon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/morentupian_2" />
+
+    <TextView
+        android:id="@+id/tv_indiana_goods_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Apple Watch 8款   官方正品"
+        android:textSize="16sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp" >
+
+        <TextView
+            android:id="@+id/tv_total_need_indiana"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="总需:"
+            android:textColor="@color/gray" />
+
+        <TextView
+            android:id="@+id/tv_total_need_indiana_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_total_need_indiana"
+            android:text="88888"
+            android:textColor="@color/gray" />
+
+        <ProgressBar
+            android:id="@+id/pb_indiana_goods"
+            style="@style/mProgress_horizontal"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_total_need_indiana_num"
+            android:layout_marginTop="5dp"
+            android:progress="80"
+            android:visibility="visible" >
+        </ProgressBar>
+
+        <TextView
+            android:id="@+id/tv_total_remaining_indiana"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pb_indiana_goods"
+            android:layout_marginTop="5dp"
+            android:text="剩余:"
+            android:textColor="@color/gray" />
+
+        <TextView
+            android:id="@+id/tv_total_remaining_indiana_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pb_indiana_goods"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@id/tv_total_remaining_indiana"
+            android:text="254"
+            android:textColor="@color/signIn_red" />
+
+        <ImageButton
+            android:id="@+id/ib_add_buycar_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:src="@drawable/indiana_btn_buy_car_selector" />
+    </RelativeLayout>
+
+</LinearLayout>

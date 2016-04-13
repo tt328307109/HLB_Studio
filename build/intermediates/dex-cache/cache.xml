@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\android-support-v4_3107fddec2c2957837a39cdb53d4894ecf837bb2.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\umeng-onlineconfig_v1.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="716926f94af2f74098d6579fcd72462ad4773c73">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\umeng-onlineconfig_v1.0.0_a81a43dd59b77dd106b1ec0c54ffc142b8b273fe.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\fastjson-1.1.36.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="63a6becf28f9a3facdc54a350c93fb1b85893ac5">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\fastjson-1.1.36_070f1141a6f9c6e178f61ca4ecbac1b0cdb38e37.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\javabase64-1.3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8d6c41daabd8f7aebf65893dcbbfc18b5b78ea74">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\javabase64-1.3.1_27bd8e5c2043b365c6559994efd515b7c5d4d75e.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\build\intermediates\exploded-aar\HLB_Studio\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4acdb1b79473e430e76b957cd019f5e265ef7eea">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\HLB_Studio-library-unspecified_ec451288a849783c1fa8d8cfa2c7adb19b656f20.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_57ecf02827d6f9360acbb629d89b16b4da3f082a.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\umeng-analytics-v5.6.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8a8255ad63bcf5d7609e26b24d6cc38a3d961d40">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.3_7a35115b29295b3e4fb6fb3d972570fbf901b26a.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\zxbbt_sdk_beta_v0.9.3_hsm.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d4f33aac741fef0762456b3917ded0192f0af91e">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\zxbbt_sdk_beta_v0.9.3_hsm_2fb052c9874833e6f6851afb689fd29d68b80829.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\jackson-mapper-asl-1.9.13.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.13_e53fc813e08be2667b77b0a97f7cd18a65c6081c.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\dom4j-1.6.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\dom4j-1.6.1_5fd4adb31be63620c138d8409d29430e71f9b466.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\WepayPluginNFC_stdsdk_1.0.12_0825.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a7875527278c92bfd13988b3e6cf0c1d7f308ea0">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\WepayPluginNFC_stdsdk_1.0.12_0825_f2fd09590d29966bafa54153678d9af3da4532e5.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7c0018e9838fc8c654c6fa83a110c4600b46febd">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview_5583efe7f2bf021a511f18a34cf54bd86514e48d.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\ftp4j-1.6.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5587b19a4527cf8e0e53a58aff649e06dbd869d9">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\ftp4j-1.6_24d39d757dce5345768e56ebe0109edad676341f.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\umeng-update-v2.6.0.1_e6a17130215bc98f3eee7c38d76a072759f346f6.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\LKCommunication.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f8a7651b8c6bd9448343056545b03c342062014b">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\LKCommunication_6a450a368920b85d13b30ecd9a71824cab38b288.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\jpush-android-2.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="46ba8dda9da3802d03bd5d73e258c72cb5605416">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\jpush-android-2.1.0_c2b5e0538d1c38ab70b747105d65dcf09f54a30f.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\xUtils-2.6.14_606e11d4cb4dc1093854c8874e950967518deed3.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\gson-2.2.4_9379bdfc7c8293573a6551dcaaa3adfa6c844725.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\BasicLibary.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="519187a77530aa198d81ed0f5c3412c29715e02e">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\BasicLibary_4fb73045e08c3b5e7098f42a216ff3d48160cfab.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\reader_landicorp_1.0.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3f054434bde54789f704b3e3c79f0b34d054f998">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\reader_landicorp_1.0.5_93644dae737b162ef334a988559aa1322a1954c7.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_014b0a50177b7983377c00c15bfd2f5e3dd186ab.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\base64.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="bd67ba7d7bd6132bb2639ef17725a0ca7821f105">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\base64_5bdefe0bc6aa3d0cc9e829552890c461ea08be64.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\emvswipeapi-android-2.10.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="abf8b177897e4c69c3e9a566e2651a7cb8188830">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\emvswipeapi-android-2.10.3_6d34adc8951ec2d5de8225050d547273d2f29e41.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\SposSdk.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8c9046e8ad5c598d78966d14f85bee0725cbc85f">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\SposSdk_89f6bebf240593b1dcead9de8d9b2abbe39a5f23.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\core.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="327bddfe22740db0419bd719a0f950b6ad2b3c3f">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\core_9350d7fe677af6f9d9cfcee6a218553ee882d3b8.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\jackson-core-asl-1.9.13.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3c304d70f42f832e0a86d45bd437f692129299a4">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.13_11a44c7f00877f1787f278fcc6904788d14054ca.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\picasso-2.5.2_e0b0b5da0c91e10bec659e4e6931cbfaa35d6826.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\hxAndroidSdk2063.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="503bd2c3a48be124b21c4e01de5b0c0d6868edae">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\hxAndroidSdk2063_6a27b8cb3ec53bd450cca62720e743482dee3a24.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\sunjce_provider.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2357317d1e1f14937b3bda942c58791ee1dba581">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\sunjce_provider_0f49d0abab905cf0c8c5757984cb057a49d3a366.jar" />
+    </item>
+    <item
+        jar="F:\workspace\HLB_Studio\HLBPay\libs\V50NEWSDK.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2603d8dd6591e9836d389fd5199e3a33c32136be">
+        <dex dex="F:\workspace\HLB_Studio\HLBPay\build\intermediates\pre-dexed\debug\V50NEWSDK_7f3993fa0438e61ea6aa770abaae5c2578699ac4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBarYellow
+        android:id="@+id/titlebar_indiana_record_list"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" />
+
+    <RadioGroup
+        android:id="@+id/indiana_rg_record"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/indiana_record_1"
+            style="@style/td_tab"
+            android:background="@drawable/indiana_shouye_xiahuaxian_selector"
+            android:checked="true"
+            android:text="全部"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+
+        <RadioButton
+            android:id="@+id/indiana_record_2"
+            style="@style/td_tab"
+            android:background="@drawable/indiana_shouye_xiahuaxian_selector"
+            android:text="进行中"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+
+        <RadioButton
+            android:id="@+id/indiana_record_3"
+            style="@style/td_tab"
+            android:background="@drawable/indiana_shouye_xiahuaxian_selector"
+            android:text="已揭晓"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+    </RadioGroup>
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+    <LinearLayout
+        android:id="@+id/ll_indiana_recordList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:src="@drawable/f047" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="暂无记录"
+            android:textColor="@color/gray"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/ll_indiana_record_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:dividerHeight="1dp"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:smoothScrollbar="true"
+        ptr:ptrMode="both" />
+
+</LinearLayout>

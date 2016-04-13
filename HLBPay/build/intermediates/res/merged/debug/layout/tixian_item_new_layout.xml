@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout style="@style/add_tixian_list_rl" >
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_time"
+            style="@style/text_xyk_add"
+            android:text="提现时间" />
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_time1"
+            style="@style/tv_tixian"
+            android:layout_toRightOf="@id/tv_tixian_item_new_time"
+            android:text="一一" />
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_day"
+            style="@style/tv_tixian"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_tixian_item_new_time1"
+            android:text="一一" />
+    </RelativeLayout>
+
+    <RelativeLayout style="@style/add_tixian_list_rl" >
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_way"
+            style="@style/text_xyk_add"
+            android:text="提现方式" />
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_way1"
+            style="@style/tv_tixian"
+            android:layout_toRightOf="@id/tv_tixian_item_new_way"
+            android:text="一一" />
+    </RelativeLayout>
+
+    <RelativeLayout style="@style/add_tixian_list_rl" >
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_money"
+            style="@style/text_xyk_add"
+            android:text="提现金额" />
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_money1"
+            style="@style/tv_tixian"
+            android:layout_toRightOf="@id/tv_tixian_item_new_money"
+            android:text="一一" />
+    </RelativeLayout>
+
+    <RelativeLayout style="@style/add_tixian_list_rl" >
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_type"
+            style="@style/text_xyk_add"
+            android:text="提现状态" />
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_type1"
+            style="@style/tv_tixian"
+            android:layout_toRightOf="@id/tv_tixian_item_new_type"
+            android:text="一一" />
+    </RelativeLayout>
+
+    <RelativeLayout style="@style/add_tixian_list_rl" >
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_poundage"
+            style="@style/text_xyk_add"
+            android:text="手续费" />
+
+        <TextView
+            android:id="@+id/tv_tixian_item_new_poundage1"
+            style="@style/tv_tixian"
+            android:layout_toRightOf="@id/tv_tixian_item_new_poundage"
+            android:text="一一" />
+    </RelativeLayout>
+
+</LinearLayout>

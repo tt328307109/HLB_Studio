@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LKCommunication">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HLBPay/libs/LKCommunication.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

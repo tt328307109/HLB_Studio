@@ -1,0 +1,330 @@
+package com.lk.qf.pay.aanewactivity;
+
+import java.io.UnsupportedEncodingException;
+import java.util.HashMap;
+import java.util.Map;
+
+import org.apache.http.entity.StringEntity;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import com.alibaba.fastjson.JSON;
+import com.lidroid.xutils.HttpUtils;
+import com.lidroid.xutils.exception.HttpException;
+import com.lidroid.xutils.http.RequestParams;
+import com.lidroid.xutils.http.ResponseInfo;
+import com.lidroid.xutils.http.callback.RequestCallBack;
+import com.lidroid.xutils.http.client.HttpRequest.HttpMethod;
+import com.lk.bhb.pay.R;
+import com.lk.qf.pay.activity.BaseActivity;
+import com.lk.qf.pay.golbal.MApplication;
+import com.lk.qf.pay.golbal.MyUrls;
+import com.lk.qf.pay.sharedpref.SharedPrefConstant;
+import com.lk.qf.pay.tool.T;
+import com.lk.qf.pay.utils.ExpresssoinValidateUtil;
+import com.lk.qf.pay.utils.MyMdFivePassword;
+import com.lk.qf.pay.wedget.CommonTitleBar;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.os.CountDownTimer;
+import android.util.Log;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageButton;
+import android.widget.RadioGroup;
+import android.widget.TextView;
+import android.widget.RadioGroup.OnCheckedChangeListener;
+import android.widget.Toast;
+
+public class AddBasicInformationActivity extends BaseActivity implements
+		OnClickListener {
+
+	private EditText etUserNum, etUserPwd, etMerName, etSmsCode;
+	private ImageButton next;
+	private Button btnCode;
+	private String userName, merName, userPwd, tixian, smsCode, accsort,
+			acc_sort, oemname, agname;
+	private CommonTitleBar title;
+	// private RadioGroup rg;
+	private static int APPID = 1;// 0为o单 1代理
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.add_merchant_basic);
+
+		etUserNum = (EditText) findViewById(R.id.et_basic_loginNum);
+		etUserPwd = (EditText) findViewById(R.id.et_basic_loginPwd);
+		etMerName = (EditText) findViewById(R.id.et_basic_merJianCheng);
+		etSmsCode = (EditText) findViewById(R.id.et_basic_loginCode);
+		title = (CommonTitleBar) findViewById(R.id.titlebar_addMerchants);
+		title.setActName("基本信息");
+		title.setCanClickDestory(this, true);
+
+		next = (ImageButton) findViewById(R.id.btn_basic_next);
+		btnCode = (Button) findViewById(R.id.btn_mer_basic_getCode);
+		// rg = (RadioGroup) findViewById(R.id.rg_add_mer);
+		// rg.setOnCheckedChangeListener(this);
+		next.setOnClickListener(this);
+		btnCode.setOnClickListener(this);
+	}
+
+	@Override
+	public void onClick(View arg0) {
+		// TODO Auto-generated method stub
+		switch (arg0.getId()) {
+		case R.id.btn_basic_next:
+			userName = etUserNum.getText().toString();
+			userPwd = etUserPwd.getText().toString();
+			merName = etMerName.getText().toString();
+
+			smsCode = etSmsCode.getText().toString();
+			if (userName.equals("") || userPwd.equals("") || smsCode.equals("")) {
+				T.ss("信息未填完整");
+				return;
+			}
+			addMerchants();
+			break;
+		case R.id.btn_mer_basic_getCode:
+			getVerifyCode();
+			break;
+
+		default:
+			break;
+		}
+	}
+
+	// @Override
+	// public void onCheckedChanged(RadioGroup arg0, int arg1) {
+	// // TODO Auto-generated method stub
+	// switch (arg1) {
+	// case R.id.rb_add_mer_1:
+	// APPID = 1;
+	// break;
+	// case R.id.rb_add_mer_2:
+	// APPID = 2;
+	// break;
+	//
+	// default:
+	// break;
+	// }
+	// }
+
+	private void addMerchants() {
+
+		if (APPID == 1) {// 代理
+			accsort = "ag";
+			acc_sort = "";
+			// oemname = "";
+			agname = MApplication.mSharedPref
+					.getSharePrefString(SharedPrefConstant.USERNAME);
+
+		} else if (APPID == 2) {// 商户
+			accsort = "mer";
+			acc_sort = "pos";
+			// oemname = "";
+			agname = "";
+		}
+
+		showLoadingDialog();
+		String userPasswd = etUserPwd.getText().toString().trim();
+
+		RequestParams params = new RequestParams();
+		String url = MyUrls.MERADD;
+		oemname = MApplication.mSharedPref
+				.getSharePrefString(SharedPrefConstant.USERNAME);// O单名
+		Map<String, String> map = new HashMap<String, String>();
+		map.put("username", userName);
+		map.put("pwd", MyMdFivePassword.MD5(MyMdFivePassword.MD5(userPasswd)));
+		map.put("strCaptcha", smsCode);
+		map.put("niname", "");
+		map.put("realname", "");
+		map.put("epayotherimg1", "");
+		map.put("epayotherimg2", "0");
+		map.put("epayotherimg3", "0");
+		map.put("autopospaytax", "0");
+		map.put("xiafatax", "0");
+		map.put("tixiantax", "");
+		map.put("oemname", oemname);
+		map.put("agname", agname);
+		map.put("accsort", accsort);
+		map.put("acc_sort", acc_sort);
+		map.put("edit", "0");
+		String json = JSON.toJSONString(map);
+		Log.i("result", "----ddd----s-------" + json);
+		try {
+			StringEntity bodyEntity = new StringEntity(json, "UTF-8");
+			params.setBodyEntity(bodyEntity);
+		} catch (UnsupportedEncodingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		HttpUtils utils = new HttpUtils();
+		utils.send(HttpMethod.POST, url, params, new RequestCallBack<String>() {
+
+			@Override
+			public void onFailure(HttpException arg0, String arg1) {
+				T.ss("操作超时");
+				dismissLoadingDialog();
+			}
+
+			@Override
+			public void onSuccess(ResponseInfo<String> response) {
+				// TODO Auto-generated method stub
+				String code = "";
+				String message = "";
+				String str = response.result;
+				Log.i("result", "----添加代理成功----s-------" + str);
+				try {
+					JSONObject obj = new JSONObject(str);
+					code = obj.optString("CODE");
+					message = obj.optString("MESSAGE");
+				} catch (JSONException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+
+				if (code.equals("00")) {
+					
+					MApplication.mSharedPref.putSharePrefString(
+							SharedPrefConstant.MERENTERPRISERADD, "1");// 是否添加企业信息
+
+					T.ss("操作成功");
+					Intent intent = null;
+					if (APPID == 1) {
+
+						intent = new Intent(AddBasicInformationActivity.this,
+								SetRateDaiLiActivity.class);
+					} else {
+						intent = new Intent(AddBasicInformationActivity.this,
+								SetRateMerActivity.class);
+					}
+					intent.putExtra("userName", userName);
+					startActivity(intent);
+				} else {
+					T.ss(message);
+				}
+				dismissLoadingDialog();
+			}
+		});
+	}
+
+	/**
+	 * 获取验证码
+	 */
+	private void getVerifyCode() {
+		Log.i("result", "----dd-----------");
+		userName = etUserNum.getText().toString();
+		if (userName == null || (userName != null && userName.equals(""))) {
+			Toast.makeText(this, "请输入手机号码", Toast.LENGTH_SHORT).show();
+			return;
+		} else if (!ExpresssoinValidateUtil.isMobilePhone(userName)) {
+			T.ss("手机号码有误");
+			return;
+		}
+
+		RequestParams params = new RequestParams();
+		HashMap<String, String> map = new HashMap<String, String>();
+
+		map.put("smstyp", "00");
+		map.put("phonenum", userName);
+		map.put("brand", "0001");
+		map.put("signature", "00");
+		map.put("biaozhi", "wuyou");
+
+		String json = JSON.toJSONString(map);
+		Log.i("result", "----ddd-----------" + json);
+		try {
+			StringEntity bodyEntity = new StringEntity(json, "UTF-8");
+			params.setBodyEntity(bodyEntity);
+		} catch (UnsupportedEncodingException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+
+		HttpUtils httpUtils = new HttpUtils();
+		String url = MyUrls.GETVERIFYCODE;
+
+		httpUtils.send(HttpMethod.POST, url, params,
+				new RequestCallBack<String>() {
+
+					@Override
+					public void onFailure(HttpException arg0, String arg1) {
+						// TODO Auto-generated method stub
+						btnCode.setText("重新发送");
+						T.ss("操作超时");
+					}
+
+					@Override
+					public void onSuccess(ResponseInfo<String> response) {
+						// TODO Auto-generated method stub
+
+						String str = response.result;
+						String code = "";
+						String message = "";
+						try {
+							JSONObject obj = new JSONObject(str);
+							code = obj.optString("CODE");
+							message = obj.optString("MESSAGE");
+
+						} catch (JSONException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
+
+						if (code.equals("00")) {
+							btnCode.setText("已发送");
+							sms = new SmsCodeCount(60000, 1000);
+							sms.start();
+							T.ss("已发送");
+						} else {
+
+							T.ss(message);
+							btnCode.setText("发送失败");
+							btnCode.setEnabled(true);
+						}
+					}
+				});
+	}
+
+	private SmsCodeCount sms;
+
+	/**
+	 * @ClassName: SmsCodeCount
+	 * @Description: 定义一个倒计时的内部类
+	 * 
+	 */
+	class SmsCodeCount extends CountDownTimer {
+
+		/**
+		 * Title:SmsCodeCount Description: 倒计时
+		 * 
+		 * @param millisInFuture
+		 * @param countDownInterval
+		 */
+		public SmsCodeCount(long millisInFuture, long countDownInterval) {
+			super(millisInFuture, countDownInterval);
+		}
+
+		@Override
+		public void onFinish() {
+			btnCode.setText(getString(R.string.get_again));
+			btnCode.setEnabled(true);
+		}
+
+		@Override
+		public void onTick(long millisUntilFinished) {
+			btnCode.setText(millisUntilFinished / 1000
+					+ getString(R.string.resume));
+			// btnGetVerify.setBackgroundColor(Color
+			// .parseColor(getString(R.color.btn_bg_grey)));
+			btnCode.setEnabled(false);
+		}
+	}
+
+}

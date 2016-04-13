@@ -1,0 +1,126 @@
+[
+    {
+        "outputFile": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 79,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 79,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 70,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 70,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 83,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 83,
+                        "endOffset": 285
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 79,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 79,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 70,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 70,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 83,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\values-ru\\values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 83,
+                        "endOffset": 285
+                    }
+                }
+            }
+        ]
+    }
+]

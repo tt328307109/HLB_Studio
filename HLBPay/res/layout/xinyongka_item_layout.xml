@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/xinyongka_kong" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/xinyongka_bg_2" >
+
+        <ImageView
+            android:id="@+id/img_xyk_item_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/baise" />
+
+        <ImageView
+            android:id="@+id/img_xyk_xintiao_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/img_xyk_item_icon"
+            android:background="@drawable/xiantiao_2" />
+
+        <TextView
+            android:id="@+id/tv_xyk_item_userName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@id/img_xyk_xintiao_2"
+            android:text="ss" />
+
+        <TextView
+            android:id="@+id/tv_xyk_item_bankNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/img_xyk_xintiao_2"
+            android:text="aa"
+            android:textColor="@color/zicolor" />
+
+        <TextView
+            android:id="@+id/tv_xyk_item_weihuan_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="aa"
+            android:textColor="@color/red" />
+
+        <TextView
+            android:id="@+id/tv_xyk_item_bankName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/img_xyk_xintiao_2"
+            android:paddingBottom="3dp"
+            android:text="aa"
+            android:textColor="@color/zicolor" />
+
+        <RelativeLayout
+            android:id="@+id/ll_xyk_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true" >
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="30dp" >
+
+                <TextView
+                    android:id="@+id/tv_xyk_day"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="40dp"
+                    android:text="qq"
+                    android:textColor="@color/zicolor" />
+
+                <ImageView
+                    android:id="@+id/img_xyk_type"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_xyk_day"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/daoqi"
+                    />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/jiantou_xyk" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

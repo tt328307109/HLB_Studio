@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.lk.bhb.pay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_intelligence_pos_back"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        app:titleContent="刷卡支付" >
+    </com.lk.qf.pay.wedget.CommonTitleBar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/cashin_amount_layout_intelligence_pos"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="20dp"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/cashin_content_intelligence_pos_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="center_vertical|right"
+                android:text="收款金额"
+                android:textColor="@color/black"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/cashin_account__intelligence_postext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingLeft="20dp"
+                android:text=""
+                android:textColor="@color/orange"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <View
+            style="@style/common_line_horizontal_style"
+            android:layout_width="fill_parent"
+            android:layout_height="0.1dp" />
+
+        <LinearLayout
+            android:id="@+id/panel_intelligence_posg_progress"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="10dp" >
+
+            <ProgressBar
+                android:id="@+id/cashin_intelligence_pos_pb"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="15dp"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/cashin_show_msg_intelligence_pos_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:text="请刷卡"
+                android:textColor="@color/blue"
+                android:textSize="@dimen/large" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/cashin_intelligence_pos_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/bg_magnetic" />
+
+        <Button
+            android:id="@+id/btn_settle"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_below="@id/cashin_intelligence_pos_img"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/rounded_rectangle_blue_selector"
+            android:text="请点击后，再刷卡"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+</LinearLayout>

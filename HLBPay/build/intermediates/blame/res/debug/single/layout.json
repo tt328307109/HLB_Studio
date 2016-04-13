@@ -1,0 +1,2354 @@
+[
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\mobile_verify.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\mobile_verify.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_my_record_mine_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_my_record_mine_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_list_goods_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_list_goods_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_show_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_show_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tradesales_slip.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tradesales_slip.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tixian_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jiaoyi_guanli_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\jiaoyi_guanli_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header2.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\pull_to_refresh_header2.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\earning_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\earning_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_title_bar_yellow_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\common_title_bar_yellow_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\register_step2.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\register_step2.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pin_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\pin_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_problem_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\common_problem_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\equ_add.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\equ_add.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\shuhui_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\shuhui_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\v50_list_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\v50_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repaymentway.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_repaymentway.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\diaodan_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\diaodan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_delete.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\layout_dialog_delete.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_help_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\serach_total_income_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\serach_total_income_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bianminfuwu_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\bianminfuwu_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\commonly_user_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\commonly_user_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_detail_item_amt.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\deal_detail_item_amt.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_repay_date_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\credit_card_repay_date_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_buycar_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_buycar_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\equ_add.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\equ_add.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_grid.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_account_pwd_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tixian_account_pwd_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_show_dialog_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\pwd_show_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jiesuan_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\jiesuan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\transfer_mx_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\transfer_mx_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_grid.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head_two.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\refresh_head_two.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\swing_card_s_bule.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\swing_card_s_bule.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\toast_success.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\toast_success.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_daili_basic_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\add_daili_basic_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_licai_goods_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\add_licai_goods_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_canyu_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_canyu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_bind.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\bluetooth_bind.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_posloan_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\confirm_posloan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_person_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\add_person_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\signature_pad.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\signature_pad.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tixian_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\paybyv50_swing_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\paybyv50_swing_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_record_refresh.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\deal_record_refresh.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\acticity_check.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\acticity_check.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\saidan_gridview_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\saidan_gridview_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_xinyongka_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\add_xinyongka_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\balance_confirm.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\balance_confirm.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\transfer_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\transfer_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_bucket.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_image_bucket.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_record_refresh.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\deal_record_refresh.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\my_loan_list_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\my_loan_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_generic.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\common_dialog_generic.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\enlarge_photo.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\enlarge_photo.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\qianbao_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\qianbao_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_goods_info_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_goods_info_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_buycar_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_buycar_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\licai_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_goods_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\licai_goods_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_account_info.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_account_info.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\xinyongka_huankuan_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\xinyongka_huankuan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\earning_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\earning_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zz_device_list.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\zz_device_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_latest_announced_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_latest_announced_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\shoukuan_code_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\shoukuan_code_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\trade_success.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\trade_success.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\show_msg.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\show_msg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\friends_message_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\friends_message_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\chioose_city_activity.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\chioose_city_activity.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fenrun_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\fenrun_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\poly_loan_tab_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\poly_loan_tab_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\cashin_new_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\cashin_new_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zxb_device_list.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\zxb_device_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_goods_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\licai_goods_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\view_actionsheet.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\view_actionsheet.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\mall_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\mall_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_buycar_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_buycar_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zz_activity_main.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\zz_activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\licai_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\progress_version_update.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\progress_version_update.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\posloan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_repay_date_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\credit_card_repay_date_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\commonly_user_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\commonly_user_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_new_record_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\licai_new_record_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\help_detail.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\help_detail.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\user_management_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\user_management_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ransomactivity.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_ransomactivity.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pos_loan_basic_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\pos_loan_basic_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\province_city_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\province_city_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\view_alertdialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\view_alertdialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_loading_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\common_loading_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_web_view.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_my_web_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_protocol_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_protocol_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\v50_device_list_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\v50_device_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_new_record_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\licai_new_record_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\transfer_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\transfer_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\sy_fgs_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\sy_fgs_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_repay_list_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\credit_card_repay_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_canyu_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_canyu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\application_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\application_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\set_rate_mer_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\set_rate_mer_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\xinyongka_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\xinyongka_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\installed_fenrun_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\installed_fenrun_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\winner_record_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\winner_record_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\sylist_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\sylist_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_auto_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\item_auto_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\sy_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\sy_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\progress_version_update.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\progress_version_update.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\super_transferaccount_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\super_transferaccount_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\nfc_cashin_rate_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\nfc_cashin_rate_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_issue_winner_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_issue_winner_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bound_mobile_pos.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\bound_mobile_pos.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ransomactivity.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_ransomactivity.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\refer_process_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\refer_process_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cashin.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\fragment_cashin.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_tradelist.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\popwindow_tradelist.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_adview.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tb_munion_adview.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_account_pwd_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tixian_account_pwd_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_goods_info_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_goods_info_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\list_arr_center_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\list_arr_center_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tab_view_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tab_view_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_t0_t1_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tixian_t0_t1_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_quer_progress_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\posloan_quer_progress_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header2.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\pull_to_refresh_header2.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\revise_pwd.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\revise_pwd.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\loan_huankuan_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\loan_huankuan_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pay_by_card_confirm.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\pay_by_card_confirm.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_record_list_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_record_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\signaturepad_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\signaturepad_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\number_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\number_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_issue_winner_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_issue_winner_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_saidan_after.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_saidan_after.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\fragment_main_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tixian_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bank_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\bank_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_new.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_menu_new.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_merchant_basic.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\add_merchant_basic.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\online_response_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\online_response_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\guide_three.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\guide_three.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_creditcard_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\add_creditcard_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_grid.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\item_image_grid.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jiaoyiguanli_new_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\jiaoyiguanli_new_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jiaoyi_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\jiaoyi_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\application_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\application_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\dingdan_info_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\dingdan_info_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zxb_item_device.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\zxb_item_device.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zxb_device_list.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\zxb_device_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\popup_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\popup_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\v50_activity_findbluetooth.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\v50_activity_findbluetooth.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_record.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\deal_record.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bt_qpos_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\bt_qpos_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_attachment.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\posloan_attachment.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bound_mobile_pos.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\bound_mobile_pos.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\xinyongka_guanli_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\xinyongka_guanli_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\v50_list_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\v50_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zz_activity_main.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\zz_activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\swing_hx_card.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\swing_hx_card.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\amount_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\amount_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_show_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_show_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_problem_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\common_problem_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\transfer_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\transfer_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notice.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_notice.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_adview.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tb_munion_adview.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tixian_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bt_qpos_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\bt_qpos_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\account_info.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\account_info.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectimg.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\shimingchaxun_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\shimingchaxun_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\chioose_city_activity.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\chioose_city_activity.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\v50_device_list_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\v50_device_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bank_branch_list.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\bank_branch_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\toast_success.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\toast_success.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\chongzhi_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\chongzhi_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_protocol_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_protocol_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_new_record_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\licai_new_record_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\upload_sign.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\upload_sign.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\signature_pad.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\signature_pad.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pos_loan_basic_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\pos_loan_basic_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\installed_fenrun1_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\installed_fenrun1_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_my_address_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_my_address_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\super_transferaccount_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\super_transferaccount_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\set_rate_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\set_rate_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_load_footer.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\pull_to_load_footer.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_auto_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\item_auto_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\include_blank.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\include_blank.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_paypassword.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\item_paypassword.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_repay_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\credit_card_repay_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\create_pay_code_account_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\create_pay_code_account_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\layout_menu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_person_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\add_person_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\enlarge_photo.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\enlarge_photo.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_repay_list_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\credit_card_repay_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\register_step1.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\register_step1.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\winner_goods_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\winner_goods_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_list_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\posloan_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bianminfuwu_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\bianminfuwu_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\custom_keyboard.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\custom_keyboard.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\real_name_authentication.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\real_name_authentication.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\v50_activity_main.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\v50_activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fenrun_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\fenrun_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_creditcard_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\add_creditcard_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\items_nitoce_msg.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\items_nitoce_msg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\swing_card_bluetooth.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\swing_card_bluetooth.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\layout_slideshow.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\layout_slideshow.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\equ_add_confirm.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\equ_add_confirm.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_record_list_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_record_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\winner_info_type_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\winner_info_type_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\poly_hk_list_loan_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\poly_hk_list_loan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\network_error_popwindow.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\network_error_popwindow.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\loan_hk_litem_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\loan_hk_litem_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\apply_polyloan_by_licai_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\apply_polyloan_by_licai_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_licai_goods_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\add_licai_goods_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\nfc_cashin_rate_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\nfc_cashin_rate_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head_two.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\refresh_head_two.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\loan_xieyi_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\loan_xieyi_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\show_indiananum_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\show_indiananum_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fenrun_guanli_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\fenrun_guanli_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_merchant.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\fragment_merchant.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\licai_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\transfer_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\transfer_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\huankuan_xyk_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\huankuan_xyk_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_record_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\deal_record_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\guide_three.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\guide_three.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\confirm_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\show_msg.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\show_msg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zz_device_name.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\zz_device_name.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\set_rate_mer_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\set_rate_mer_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\equ_list_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\equ_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repaymentway.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_repaymentway.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\custom_year_month_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\custom_year_month_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\winner_record_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\winner_record_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bind_audiodevice_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\bind_audiodevice_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_web_view.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_my_web_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\signin_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\signin_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\dingdan_info_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\dingdan_info_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\left_listview_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\left_listview_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\swing_card_audio.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\swing_card_audio.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\cashin_v50_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\cashin_v50_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\sy_fgs_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\sy_fgs_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\friends_message_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\friends_message_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\v50_activity_findbluetooth.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\v50_activity_findbluetooth.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\register_step2.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\register_step2.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\credit_card_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\bluetooth_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\huankuan_list_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\huankuan_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\lates_announce_fragment_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\lates_announce_fragment_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bank_card_list_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\bank_card_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\guide_four.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\guide_four.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_list_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\credit_card_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_saidan_after.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_saidan_after.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_addr_list_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_addr_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\poly_loan_tab_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\poly_loan_tab_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\xinyongka_huankuan_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\xinyongka_huankuan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_bucket.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\item_image_bucket.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_new_record_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\licai_new_record_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_t0_t1_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tixian_t0_t1_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\xyk_modify_message_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\xyk_modify_message_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\kefu_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\kefu_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\top_up_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\top_up_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\popup_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\popup_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\borrowing_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\borrowing_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_goods_info_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\licai_goods_info_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\list_arr_center_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\list_arr_center_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\create_pay_code_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\create_pay_code_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_edit_address_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_edit_address_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\user_management_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\user_management_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jiesuan_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\jiesuan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\number_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\number_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\loading_empty_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\loading_empty_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_shouye_fragment_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_shouye_fragment_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\trade_query_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\trade_query_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_latest_announced_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_latest_announced_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_merchant_basic.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\add_merchant_basic.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_basksigle_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_basksigle_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\payday_loan_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\payday_loan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bank_branch_list_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\bank_branch_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\redemption_deposit_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\redemption_deposit_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_aditem.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tab_view_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tab_view_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\posloan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\custom_date_picker_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\custom_date_picker_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\huankuan_xyk_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\huankuan_xyk_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\user_management_fgs_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\user_management_fgs_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_introduce_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\posloan_introduce_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bank_branch_list.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\bank_branch_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_new.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_menu_new.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_list_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\credit_card_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_protocol.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_protocol.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_main_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_main_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\fragment_main_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\userimformation_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\userimformation_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\chongzhi_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\chongzhi_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_zj_phono_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\add_zj_phono_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zz_device_list.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\zz_device_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\amount_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\amount_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_repaydate_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\credit_card_repaydate_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\custom_keyboard.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\custom_keyboard.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\cashin_confirm.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\cashin_confirm.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_issue_open_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_issue_open_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\kefu_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\kefu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_commonly_user_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\add_commonly_user_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main_bottom.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tab_main_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\loan_hk_litem_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\loan_hk_litem_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\winner_record_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\winner_record_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_list_goods_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_list_goods_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\layout_menu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_loading_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\common_loading_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_details.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\deal_details.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_new_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\licai_new_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jiaoyi_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\jiaoyi_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\province_city_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\province_city_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectimg.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_attachment.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\posloan_attachment.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_load_footer.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\pull_to_load_footer.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_my_record_mine_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_my_record_mine_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_posloan_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\confirm_posloan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\xinyongka_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\xinyongka_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\network_error_popwindow.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\network_error_popwindow.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_adapter.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\gridview_adapter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\qianbao_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\qianbao_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fuzzy_query_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\fuzzy_query_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\include_blank.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\include_blank.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\right2_listview_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\right2_listview_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\swing_card_audio.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\swing_card_audio.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bank_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\bank_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\apply_loan_fragment_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\apply_loan_fragment_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\trade_query_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\trade_query_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\winner_goods_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\winner_goods_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_daili_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\add_daili_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\shimingchaxun_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\shimingchaxun_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_zj_phono_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\add_zj_phono_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\acticity_check.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\acticity_check.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\swing_hx_card.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\swing_hx_card.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\upload_sign.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\upload_sign.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\paybyv50_swing_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\paybyv50_swing_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\saidan_gridview_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\saidan_gridview_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\sy_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\sy_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_show_dialog_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\pwd_show_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_adapter.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\gridview_adapter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_bind.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\bluetooth_bind.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\guide.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\guide.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\custom_date_picker_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\custom_date_picker_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_null.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\fragment_null.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\licai_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_loding_component.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\common_loding_component.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\layout_keyboard_member.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\layout_keyboard_member.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\signaturepad_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\signaturepad_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\view_alertdialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\view_alertdialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_repaydate_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\credit_card_repaydate_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\diaodan_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\diaodan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\magnetic_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\magnetic_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\card_balance.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\card_balance.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\show_indiananum_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\show_indiananum_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\verify_id_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\verify_id_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_main_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_main_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\number_select_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\number_select_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tradesales_slip.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tradesales_slip.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\guide_two.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\guide_two.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\cashin_new_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\cashin_new_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\upgrade_user_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\upgrade_user_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_manage.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\pwd_manage.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\swing_card_bluetooth.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\swing_card_bluetooth.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\user_management_fgs_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\user_management_fgs_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\posloan_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tixian_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\revise_pwd.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\revise_pwd.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fenrun_guanli_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\fenrun_guanli_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\notice_detail_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\notice_detail_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\sy_fgs_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\sy_fgs_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_details.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\deal_details.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_manage.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\pwd_manage.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\kefu_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\kefu_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bank_card_list_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\bank_card_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\show_goods_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\show_goods_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\sylist_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\sylist_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_buycar_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_buycar_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\signin_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\signin_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_daili_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\add_daili_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\guide.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\guide.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_edit_address_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_edit_address_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_item_new_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tixian_item_new_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\my_loan_list_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\my_loan_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\main_item_three_line_row_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\main_item_three_line_row_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\top_up_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\top_up_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_detail_item_explain.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\deal_detail_item_explain.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\show_goods_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\show_goods_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_detail_item_amt.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\deal_detail_item_amt.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\kefu_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\kefu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_my_address_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_my_address_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_title_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\common_title_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\account_info.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\account_info.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\view_actionsheet.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\view_actionsheet.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_paypassword.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\item_paypassword.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\equ_list_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\equ_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\single_textview_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\single_textview_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cashin.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\fragment_cashin.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_loding_component.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\common_loding_component.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\apply_repayment_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\apply_repayment_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\magnetic_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\magnetic_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\upgrade_user_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\upgrade_user_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\first_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\first_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zz_main.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\zz_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zz_main.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\zz_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\mobile_verify.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\mobile_verify.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\custom_year_month_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\custom_year_month_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_generic.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\common_dialog_generic.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\guide_one.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\guide_one.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_bucket.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_image_bucket.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\confirm_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repaymentway_detail.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_repaymentway_detail.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_protocol.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_protocol.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\guide_one.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\guide_one.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\right_listview_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\right_listview_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\right2_listview_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\right2_listview_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fuzzy_query_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\fuzzy_query_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\equ_list.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\equ_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\notice_detail_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\notice_detail_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\xinyongka_guanli_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\xinyongka_guanli_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\shuhui_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\shuhui_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\userimformation_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\userimformation_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\equ_add_confirm.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\equ_add_confirm.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_account_info.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_account_info.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\verify_id_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\verify_id_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pop_banlcard.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\pop_banlcard.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\xinyongka_info_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\xinyongka_info_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\loading_empty_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\loading_empty_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_new_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\licai_new_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\mall_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\mall_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_aditem.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\find_pwd.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\find_pwd.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main_bottom.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tab_main_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\first_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\first_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trade_list.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_trade_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jiaoyiguanli_new_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\jiaoyiguanli_new_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\find_pwd.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\find_pwd.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\loan_xieyi_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\loan_xieyi_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_merchant.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\fragment_merchant.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bank_branch_list_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\bank_branch_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\create_pay_code_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\create_pay_code_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_quer_progress_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\posloan_quer_progress_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\huankuan_list_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\huankuan_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\balance_confirm.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\balance_confirm.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\apply_loan_fragment_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\apply_loan_fragment_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trade_list.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_trade_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\loan_huankuan_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\loan_huankuan_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\xyk_modify_message_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\xyk_modify_message_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\create_pay_code_account_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\create_pay_code_account_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\serach_total_income_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\serach_total_income_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\installed_fenrun_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\installed_fenrun_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\winner_record_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\winner_record_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_goods_info_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\licai_goods_info_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\payday_loan_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\payday_loan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\borrowing_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\borrowing_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_record_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_record_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\jiaoyi_guanli_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\jiaoyi_guanli_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\items_nitoce_msg.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\items_nitoce_msg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\card_balance.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\card_balance.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repaymentway_detail.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_repaymentway_detail.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notice.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_notice.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\register_step1.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\register_step1.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\activity_help_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_detail_item_explain.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\deal_detail_item_explain.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\number_select_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\number_select_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_record_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_record_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\set_rate_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\set_rate_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_repay_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\credit_card_repay_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zz_device_name.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\zz_device_name.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\cashin_confirm.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\cashin_confirm.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\refer_process_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\refer_process_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\zxb_item_device.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\zxb_item_device.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\redemption_deposit_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\redemption_deposit_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\right_listview_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\right_listview_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\xinyongka_info_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\xinyongka_info_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_xinyongka_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\add_xinyongka_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_null.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\fragment_null.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_item.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\bluetooth_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\licai_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\cadhin_confirm_super_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\cadhin_confirm_super_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\left_listview_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\left_listview_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_commonly_user_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\add_commonly_user_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_shouye_fragment_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\indiana_shouye_fragment_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\online_response_dialog.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\online_response_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\my_poly_loan_fragment_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\my_poly_loan_fragment_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\equ_list.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\equ_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\v50_activity_main.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\v50_activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\swing_card_s_bule.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\swing_card_s_bule.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\add_daili_basic_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\add_daili_basic_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_record.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\deal_record.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pin_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\pin_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\winner_info_type_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\winner_info_type_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\layout_slideshow.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\layout_slideshow.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\trade_success.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\trade_success.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\shoukuan_code_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\shoukuan_code_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\bind_audiodevice_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\bind_audiodevice_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\licai_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\licai_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_title_bar_yellow_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\common_title_bar_yellow_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\credit_card_list_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\credit_card_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\guide_two.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\guide_two.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\layout_keyboard_member.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\layout_keyboard_member.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\deal_record_item.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\deal_record_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_introduce_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\posloan_introduce_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_list_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\posloan_list_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\apply_repayment_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\apply_repayment_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\help_detail.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\help_detail.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_addr_list_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_addr_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_tradelist.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\popwindow_tradelist.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\real_name_authentication.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\real_name_authentication.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_grid.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\item_image_grid.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\sy_fgs_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\sy_fgs_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\main_item_three_line_row_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\main_item_three_line_row_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\my_poly_loan_fragment_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\my_poly_loan_fragment_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_delete.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\layout_dialog_delete.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_basksigle_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_basksigle_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\poly_hk_list_loan_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\poly_hk_list_loan_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\tixian_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\installed_fenrun1_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\installed_fenrun1_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\common_title_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\common_title_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\cadhin_confirm_super_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\cadhin_confirm_super_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\indiana_issue_open_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\indiana_issue_open_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\transfer_mx_item_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\transfer_mx_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pay_by_card_confirm.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\pay_by_card_confirm.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\posloan_list_item_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\posloan_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\pop_banlcard.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\pop_banlcard.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_bucket.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\item_image_bucket.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\single_textview_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\single_textview_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\apply_polyloan_by_licai_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\apply_polyloan_by_licai_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\cashin_v50_layout.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\cashin_v50_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\lates_announce_fragment_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\lates_announce_fragment_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\tixian_item_new_layout.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\tixian_item_new_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\guide_four.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\guide_four.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\layout\\progress_dialog.xml"
+    }
+]

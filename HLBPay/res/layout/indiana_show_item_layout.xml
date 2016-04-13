@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/img_indiana_show_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/morentouxiang_boy" />
+
+        <TextView
+            android:id="@+id/tv_indiana_show_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@id/img_indiana_show_icon"
+            android:text="等着一个人"
+            android:textColor="@color/blue_main"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:id="@+id/ll_indiana_show"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_indiana_show_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2016-12-14"
+                android:textColor="@color/gray"
+                android:layout_gravity="center_horizontal"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/tv_indiana_show_state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_indiana_show_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/tv_indiana_show_name"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/ll_indiana_show"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:text="范德萨范德萨范德萨范德萨发水电费是多少多少多少"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <com.lk.qf.pay.indiana.saidan.MyGridView
+        android:id="@+id/gv_indiana_show"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:columnWidth="150dp"
+        android:gravity="center_horizontal"
+        android:horizontalSpacing="1dp"
+        android:numColumns="3"
+        android:verticalSpacing="1dp" >
+    </com.lk.qf.pay.indiana.saidan.MyGridView>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="5dp" >
+
+        <ImageButton
+            android:id="@+id/ib_indiana_show_zan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:src="@drawable/dianzan_1"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/tv_indiana_show_zanNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/ib_indiana_show_zan"
+            android:text="攒人品(0)"
+            android:textColor="@color/gray"
+            android:textSize="14sp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/tv_indiana_show_goBuy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_indiana_show_zanNum"
+            android:text="去试试手气>"
+            android:textColor="@color/red"
+            android:textSize="14sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

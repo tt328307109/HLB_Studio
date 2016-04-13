@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_main_indiana"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_indiana_main_auto_pager_view"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <com.lk.qf.pay.wedget.view.AutoPagerView
+            android:id="@+id/auto_pagerview_indiana_shouye"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minHeight="150dp" />
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/indiana_rg_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/indiana_1"
+            style="@style/td_tab"
+            android:background="@drawable/indiana_shouye_xiahuaxian_selector"
+            android:checked="true"
+            android:text="全部"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/indiana_shuxian" />
+
+        <RadioButton
+            android:id="@+id/indiana_2"
+            style="@style/td_tab"
+            android:background="@drawable/indiana_shouye_xiahuaxian_selector"
+            android:text="最新"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/indiana_shuxian" />
+
+        <RadioButton
+            android:id="@+id/indiana_3"
+            style="@style/td_tab"
+            android:background="@drawable/indiana_shouye_xiahuaxian_selector"
+            android:text="总需↑"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/indiana_shuxian" />
+
+        <RadioButton
+            android:id="@+id/indiana_4"
+            style="@style/td_tab"
+            android:background="@drawable/indiana_shouye_xiahuaxian_selector"
+            android:text="总需↓"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+    </RadioGroup>
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/ll_list_indiana_goods"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:dividerHeight="5dp"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:smoothScrollbar="true"
+        ptr:ptrMode="both" />
+
+</LinearLayout>

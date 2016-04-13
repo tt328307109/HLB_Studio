@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_tixiannew_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height" />
+
+    <RelativeLayout
+        android:id="@+id/rl_tixian_t0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_biankuang" >
+
+        <TextView
+            android:id="@+id/tv_tixian_t0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/icon_t0"
+            android:text="T0提现"
+            android:textColor="@color/zicolor"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/img_tixian_right1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/jiantou_sy" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_tixian_t1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_biankuang" >
+
+        <TextView
+            android:id="@+id/tv_tixian_t1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/icon_t1"
+            android:text="T1提现"
+            android:textColor="@color/zicolor"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/img_tixian_right2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/jiantou_sy" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_t0_tixian_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_biankuang" >
+
+        <TextView
+            android:id="@+id/tv_t0_tixian_list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="26dp"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/icon_chaxun_tixian"
+            android:text="提现查询"
+            android:textColor="@color/zicolor"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/img_t0_tixian_right3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/jiantou_sy" />
+    </RelativeLayout>
+    <!-- <RelativeLayout
+        android:id="@+id/rl_t1_tixian_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_biankuang" >
+
+        <TextView
+            android:id="@+id/tv_t1_tixian_list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="26dp"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/icon_chaxun_tixian"
+            android:text="T1提现查询"
+            android:textColor="@color/zicolor"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/img_t1_tixian_right3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/jiantou_sy" />
+    </RelativeLayout> -->
+
+</LinearLayout>

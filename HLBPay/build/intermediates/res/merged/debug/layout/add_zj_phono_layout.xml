@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <com.lk.qf.pay.wedget.CommonTitleBar
+            android:id="@+id/titlebar_zizhi_photo"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/titleview_height"
+            android:orientation="vertical" />
+
+        <Button
+            android:id="@+id/btn_photo_wancheng"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@null"
+            android:text="完成"
+            android:textColor="@color/white" />
+    </FrameLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="请上传一下照片(前5张,必传)" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/background_photo" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/btn_photo_1"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="身份证正面照"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_3"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="银行卡正面照"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_5"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="身份证手持照"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_7"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="营业执照"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_9"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="税务登记证"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_11"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="开户许可证"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_13"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="店内照"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/btn_photo_2"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="身份证反面照"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_4"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="银行卡反面照"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_6"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="银行卡手持照"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_8"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="协议上传"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_10"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="组织机构证"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <Button
+                        android:id="@+id/btn_photo_12"
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/morentupian"
+                        android:gravity="bottom|center_horizontal"
+                        android:paddingBottom="8dp"
+                        android:text="门头照"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

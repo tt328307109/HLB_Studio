@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <com.lk.qf.pay.wedget.CommonTitleBar
+        android:id="@+id/titlebar_xyk_huankuan"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleview_height"
+        android:orientation="vertical" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_huankuan"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/ed_xyk_huankuan_account"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center"
+            android:hint="可借款额度"
+            android:numeric="decimal"
+            android:textColor="@color/zicolor"
+            android:textColorHint="@color/lightgray"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/btn_xyk_huankuan_queren"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/huankuan_queren_selector" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp" >
+
+        <Button
+            android:id="@+id/btn_xyk_huankuan_weixin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/huankuan_weixin_selector" />
+
+        <Button
+            android:id="@+id/btn_xyk_huankuan_zhifubao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/huankuan_zhifubao_selector" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp" >
+
+        <CheckBox
+            android:id="@+id/cb_xyk_card_add_agree"
+            style="@style/MyCheckBox2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:checked="true" />
+
+        <TextView
+            android:id="@+id/tv_xxyk_verify_agree"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/cb_xyk_card_add_agree"
+            android:text="借款授信协议"
+            android:textColor="@color/zicolor"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background_color" >
+
+    <RelativeLayout
+        android:id="@+id/rl_list_posloan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp" >
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="贷款金额:"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_posloan_list_item1"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="10dp"
+            android:text="需还金额:"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_posloan_list_item2"
+            android:layout_marginTop="10dp"
+            android:text="已还金额:"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_posloan_list_item3"
+            android:layout_marginTop="10dp"
+            android:text="每月需还:"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item_totalAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_posloan_list_item1"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_posloan_list_item1"
+            android:text=""
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item_xuhuanAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_posloan_list_item2"
+            android:layout_below="@id/tv_posloan_list_item1"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_posloan_list_item2"
+            android:text=""
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item_yihuanAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_posloan_list_item3"
+            android:layout_below="@id/tv_posloan_list_item2"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_posloan_list_item3"
+            android:text=""
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item_meiyueAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_posloan_list_item7"
+            android:layout_below="@id/tv_posloan_list_item3"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_posloan_list_item7"
+            android:text=""
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp" >
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="贷款时间:"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_posloan_list_item4"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="10dp"
+            android:text="还款日期:"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/tv_posloan_list_item5"
+            android:layout_below="@id/tv_posloan_list_item5"
+            android:layout_marginTop="10dp"
+            android:text="分期:"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tv_posloan_list_item7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/tv_posloan_list_item6"
+            android:layout_below="@id/tv_posloan_list_item6"
+            android:layout_marginTop="10dp"
+            android:text="状态:"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_posloan_list_item4"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_posloan_list_item4"
+            android:text=""
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item_huankuanDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_posloan_list_item5"
+            android:layout_below="@id/tv_posloan_list_item4"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_posloan_list_item5"
+            android:text=""
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_posloan_list_item_qixian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_posloan_list_item6"
+            android:layout_below="@id/tv_posloan_list_item5"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_posloan_list_item6"
+            android:text=""
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tv_posloan_list_item_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_posloan_list_item7"
+            android:layout_below="@id/tv_posloan_list_item6"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_posloan_list_item7"
+            android:text=""
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <View
+        style="@style/common_line_horizontal_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_list_posloan"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" />
+
+</RelativeLayout>

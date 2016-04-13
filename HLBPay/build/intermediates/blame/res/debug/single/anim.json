@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_left_in.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\activity_open_left_in.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\reverse_anim.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_left_in.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\activity_open_left_in.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\dt_out_to_right.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\dt_out_to_right.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in_2.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\push_bottom_in_2.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\dt_out_to_left.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\dt_out_to_left.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\dt_out_to_right.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\dt_out_to_right.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\dt_in_from_right.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\dt_in_from_right.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_right_out.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\activity_close_right_out.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_right_in.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\activity_close_right_in.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\dt_in_from_left.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\dt_in_from_left.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_right_out.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\activity_open_right_out.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\dt_in_from_left.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\dt_in_from_left.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\share_in_from_bottom.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\share_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\fade_ins.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\fade_ins.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\progressanmi.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\progressanmi.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\update_loading_progressbar_anim.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\update_loading_progressbar_anim.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\rotating.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\rotating.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\pull_arrow_up.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\pull_arrow_up.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_right_in.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\activity_close_right_in.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\update_loading_progressbar_anim.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\update_loading_progressbar_anim.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\pull_arrow_down.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\pull_arrow_down.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\actionsheet_dialog_in.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\actionsheet_dialog_in.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\fade_ins.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\fade_ins.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_right_out.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\activity_open_right_out.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\rotating.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\rotating.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\progressanmi.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\progressanmi.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\actionsheet_dialog_out.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in_2.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\push_bottom_in_2.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\share_in_from_bottom.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\share_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\pull_arrow_up.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\pull_arrow_up.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\actionsheet_dialog_in.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\actionsheet_dialog_in.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\dt_in_from_right.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\dt_in_from_right.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\reverse_anim.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\exploded-aar\\workplace88\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\actionsheet_dialog_out.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "F:\\workspace\\workplace88\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\dt_out_to_left.xml",
+        "source": "F:\\workspace\\workplace88\\HLBPay\\res\\anim\\dt_out_to_left.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_right_out.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\activity_close_right_out.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\exploded-aar\\HLB_Studio\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\HLB_Studio\\HLBPay\\build\\intermediates\\res\\merged\\debug\\anim\\pull_arrow_down.xml",
+        "source": "F:\\workspace\\HLB_Studio\\HLBPay\\res\\anim\\pull_arrow_down.xml"
+    }
+]

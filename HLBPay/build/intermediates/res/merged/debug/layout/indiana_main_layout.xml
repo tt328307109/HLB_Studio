@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_indiana"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/indiana_vp_main"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </android.support.v4.view.ViewPager>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:background="#ffcccdd1" />
+
+    <RadioGroup
+        android:id="@+id/indiana_rg_tab"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/indiana_tab_1"
+            style="@style/td_tab"
+            android:background="@color/white"
+            android:checked="true"
+            android:drawablePadding="2dp"
+            android:drawableTop="@drawable/indiana_shouye_selector"
+            android:text="首页"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+
+        <RadioButton
+            android:id="@+id/indiana_tab_2"
+            style="@style/td_tab"
+            android:background="@color/white"
+            android:drawablePadding="2dp"
+            android:drawableTop="@drawable/indiana_zuixinjiexiao_selector"
+            android:text="最新揭晓"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+
+        <RadioButton
+            android:id="@+id/indiana_tab_3"
+            style="@style/td_tab"
+            android:background="@color/white"
+            android:drawablePadding="2dp"
+            android:drawableTop="@drawable/indiana_show_selector"
+            android:text="晒单"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+
+        <RadioButton
+            android:id="@+id/indiana_tab_4"
+            style="@style/td_tab"
+            android:background="@color/white"
+            android:drawablePadding="2dp"
+            android:drawableTop="@drawable/indiana_buy_car_selector"
+            android:text="购物车"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+
+        <RadioButton
+            android:id="@+id/indiana_tab_5"
+            style="@style/td_tab"
+            android:background="@color/white"
+            android:drawablePadding="2dp"
+            android:drawableTop="@drawable/indiana_wo_selector"
+            android:text="我"
+            android:textColor="@color/tab_textcolor_indiana_selector" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_base2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/btn_bottom1" />
+
+</LinearLayout>

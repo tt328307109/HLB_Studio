@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="V50NEWSDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HLBPay/libs/V50NEWSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
